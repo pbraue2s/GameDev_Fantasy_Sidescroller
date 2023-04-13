@@ -3,9 +3,9 @@
   "resourceVersion": "1.0",
   "name": "sPopup",
   "bbox_bottom": 31,
-  "bbox_left": 3,
-  "bbox_right": 28,
-  "bbox_top": 14,
+  "bbox_left": 2,
+  "bbox_right": 29,
+  "bbox_top": 13,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Wallapaper Objects",
-    "path": "folders/Sprites/Wallapaper Objects.yy",
+    "name": "Map Objects",
+    "path": "folders/Sprites/Map Objects.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
