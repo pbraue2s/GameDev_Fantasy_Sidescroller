@@ -61,6 +61,7 @@
     {"name":"oLedderBottom","order":1,"path":"objects/oLedderBottom/oLedderBottom.yy",},
     {"name":"sFireball","order":1,"path":"sprites/sFireball/sFireball.yy",},
     {"name":"oMapObject","order":2,"path":"objects/oMapObject/oMapObject.yy",},
+    {"name":"sPopup","order":2,"path":"sprites/sPopup/sPopup.yy",},
     {"name":"oHearts","order":2,"path":"objects/oHearts/oHearts.yy",},
   ],
 }

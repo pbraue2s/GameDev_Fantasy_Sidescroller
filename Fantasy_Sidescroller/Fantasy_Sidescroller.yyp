@@ -84,6 +84,7 @@
     {"id":{"name":"oLedder","path":"objects/oLedder/oLedder.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oMapObject","path":"objects/oMapObject/oMapObject.yy",},},
+    {"id":{"name":"sPopup","path":"sprites/sPopup/sPopup.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"oHearts","path":"objects/oHearts/oHearts.yy",},},
     {"id":{"name":"sExplosion","path":"sprites/sExplosion/sExplosion.yy",},},
