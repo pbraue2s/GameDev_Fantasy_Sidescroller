@@ -1,0 +1,10 @@
+hsp = 0;
+vsp = 0;
+grv = 0.3;
+walksp = 4;
+maxhealth = 3;
+health = maxhealth;
+FireDelay = 0;
+dmgIncomeDelay = 0;
+csp = 0;
+climbsp = 3;
