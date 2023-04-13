@@ -21,7 +21,7 @@ hsp = move * walksp;
 vsp += grv;
 
 // jumping
-if(place_meeting(x, y+1, oMapObject)) && (keySpace){
+if(place_meeting(x, y+1, oMapObject)) && ((keySpace)||(keyUp)){
 	vsp = -10;
 }
 // ledder

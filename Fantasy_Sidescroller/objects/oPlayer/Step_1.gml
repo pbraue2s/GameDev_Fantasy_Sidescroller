@@ -9,7 +9,7 @@ if(mouse_check_button(mb_left)) && (FireDelay < 0){
 		direction = point_direction(xCoord, yCoord, mouse_x, mouse_y);
 	}
 }
-/*
+
 if(health == 3){
 	oHearts.image_index = 0;
 }else if(health == 2){
@@ -18,4 +18,4 @@ if(health == 3){
 	oHearts.image_index = 2;
 }else if(health == 0){
 	room_goto(Bibliothek)
-}*/
+}
