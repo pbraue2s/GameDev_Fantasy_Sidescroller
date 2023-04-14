@@ -4,7 +4,7 @@
   "name": "sTestConflict",
   "bbox_bottom": 39,
   "bbox_left": 5,
-  "bbox_right": 58,
+  "bbox_right": 62,
   "bbox_top": 11,
   "bboxMode": 0,
   "collisionKind": 1,
