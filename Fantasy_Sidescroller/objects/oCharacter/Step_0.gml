@@ -1,3 +1,5 @@
+/// @description Movement
+
 keyLeft = keyboard_check(vk_left);
 if(keyLeft == 0) keyLeft = keyboard_check(ord("A"));
 keyRight = keyboard_check(vk_right);
@@ -52,9 +54,5 @@ if(place_meeting(x, y+vsp, oMapObject)){
 	vsp=0;
 }
 y += vsp;
-//Damage if run into spike
---dmgIncomeDelay
-if(place_meeting(x, y, oSpike)) && (dmgIncomeDelay < 0){
-	dmgIncomeDelay = 25;
-	health--;
-}
+
+

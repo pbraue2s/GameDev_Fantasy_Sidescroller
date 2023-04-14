@@ -1,3 +1,4 @@
+/// @description Combat
 --FireDelay;
 
 if(mouse_check_button(mb_left)) && (FireDelay < 0){
@@ -18,4 +19,11 @@ if(health == 3){
 	oHearts.image_index = 2;
 }else if(health == 0){
 	room_goto(Bibliothek)
+}
+
+//Damage if run into spike
+--dmgIncomeDelay
+if(place_meeting(x, y, oSpike)) && (dmgIncomeDelay < 0){
+	dmgIncomeDelay = 25;
+	health--;
 }
