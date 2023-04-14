@@ -55,6 +55,7 @@
     {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
     {"id":{"name":"sFence","path":"sprites/sFence/sFence.yy",},},
     {"id":{"name":"oCharacter","path":"objects/oCharacter/oCharacter.yy",},},
+    {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},},
     {"id":{"name":"oSpike","path":"objects/oSpike/oSpike.yy",},},
     {"id":{"name":"oTeleportBookLevel2","path":"objects/oTeleportBookLevel2/oTeleportBookLevel2.yy",},},
     {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},

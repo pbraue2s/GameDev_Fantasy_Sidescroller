@@ -9,7 +9,10 @@
     "name": "Player",
     "path": "folders/Objekte/Player.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oPlayer",
+    "path": "objects/oPlayer/oPlayer.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -25,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sPlayerLev1",
+    "path": "sprites/sPlayerLev1/sPlayerLev1.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
