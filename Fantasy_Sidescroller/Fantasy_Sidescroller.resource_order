@@ -41,7 +41,6 @@
     {"name":"oTeleportBookLevel2","order":4,"path":"objects/oTeleportBookLevel2/oTeleportBookLevel2.yy",},
     {"name":"Level2","order":3,"path":"rooms/Level2/Level2.yy",},
     {"name":"oPopup","order":15,"path":"objects/oPopup/oPopup.yy",},
-    {"name":"sTestConflict","order":2,"path":"sprites/sTestConflict/sTestConflict.yy",},
     {"name":"oWoodWall","order":7,"path":"objects/oWoodWall/oWoodWall.yy",},
     {"name":"Bibliothek","order":5,"path":"rooms/Bibliothek/Bibliothek.yy",},
     {"name":"oTeleportBookLevel4","order":14,"path":"objects/oTeleportBookLevel4/oTeleportBookLevel4.yy",},

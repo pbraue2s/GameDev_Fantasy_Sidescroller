@@ -60,7 +60,6 @@
     {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
     {"id":{"name":"sSpike","path":"sprites/sSpike/sSpike.yy",},},
     {"id":{"name":"oPopup","path":"objects/oPopup/oPopup.yy",},},
-    {"id":{"name":"sTestConflict","path":"sprites/sTestConflict/sTestConflict.yy",},},
     {"id":{"name":"oWoodWall","path":"objects/oWoodWall/oWoodWall.yy",},},
     {"id":{"name":"Bibliothek","path":"rooms/Bibliothek/Bibliothek.yy",},},
     {"id":{"name":"oTeleportBookLevel4","path":"objects/oTeleportBookLevel4/oTeleportBookLevel4.yy",},},
