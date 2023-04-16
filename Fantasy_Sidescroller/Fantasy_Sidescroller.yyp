@@ -51,6 +51,7 @@
     {"id":{"name":"oBibPlayer","path":"objects/oBibPlayer/oBibPlayer.yy",},},
     {"id":{"name":"oWoodWallCarpet","path":"objects/oWoodWallCarpet/oWoodWallCarpet.yy",},},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+    {"id":{"name":"sPlayerLev1R","path":"sprites/sPlayerLev1R/sPlayerLev1R.yy",},},
     {"id":{"name":"oLedderTop","path":"objects/oLedderTop/oLedderTop.yy",},},
     {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
     {"id":{"name":"sFence","path":"sprites/sFence/sFence.yy",},},

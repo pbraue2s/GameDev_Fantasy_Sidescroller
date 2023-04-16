@@ -34,6 +34,7 @@
     {"name":"oBibPlayer","order":2,"path":"objects/oBibPlayer/oBibPlayer.yy",},
     {"name":"oWoodWallCarpet","order":8,"path":"objects/oWoodWallCarpet/oWoodWallCarpet.yy",},
     {"name":"Level1","order":2,"path":"rooms/Level1/Level1.yy",},
+    {"name":"sPlayerLev1R","order":3,"path":"sprites/sPlayerLev1R/sPlayerLev1R.yy",},
     {"name":"oLedderTop","order":2,"path":"objects/oLedderTop/oLedderTop.yy",},
     {"name":"Level3","order":4,"path":"rooms/Level3/Level3.yy",},
     {"name":"sFence","order":5,"path":"sprites/sFence/sFence.yy",},

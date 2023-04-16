@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oPlayerLev1",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -32,6 +34,9 @@
     "name": "sPlayerLev1",
     "path": "sprites/sPlayerLev1/sPlayerLev1.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sPlayerLev1",
+    "path": "sprites/sPlayerLev1/sPlayerLev1.yy",
+  },
   "visible": true,
 }
