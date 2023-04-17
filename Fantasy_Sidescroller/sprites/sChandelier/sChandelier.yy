@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sChandelier",
-  "bbox_bottom": 478,
-  "bbox_left": 35,
-  "bbox_right": 465,
-  "bbox_top": 24,
+  "bbox_bottom": 106,
+  "bbox_left": 10,
+  "bbox_right": 116,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9d3ad68b-320e-4e37-953e-7fb7e7a4b99b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f71a7d48-18d7-4d58-abf5-4dfada98d673",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 512,
+  "height": 128,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c3e715a9-c907-485c-bce5-d33e8535cda4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"36534b9b-dda2-4724-ad75-d8f7fbcc49f3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9d3ad68b-320e-4e37-953e-7fb7e7a4b99b","path":"sprites/sChandelier/sChandelier.yy",},},},"Disabled":false,"id":"49cc14c5-a1a7-4b4d-8721-ba3898a86436","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f71a7d48-18d7-4d58-abf5-4dfada98d673","path":"sprites/sChandelier/sChandelier.yy",},},},"Disabled":false,"id":"e737652c-ed9b-4a52-ae14-a3f7c44d5029","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 512,
+  "width": 128,
 }
