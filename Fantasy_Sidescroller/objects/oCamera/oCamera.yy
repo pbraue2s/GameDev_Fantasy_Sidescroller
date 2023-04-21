@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objekte",
-    "path": "folders/Objekte.yy",
+    "name": "Camera",
+    "path": "folders/All/Camera.yy",
   },
   "parentObjectId": null,
   "persistent": false,

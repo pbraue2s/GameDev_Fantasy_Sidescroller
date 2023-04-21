@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Map Objects",
-    "path": "folders/Objekte/Map Objects.yy",
+    "name": "Level4",
+    "path": "folders/Bibliothek/MapObjects/Books/Level4.yy",
   },
   "parentObjectId": {
     "name": "oInteract",

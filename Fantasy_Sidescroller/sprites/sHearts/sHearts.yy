@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sHearts",
-  "bbox_bottom": 15,
-  "bbox_left": 6,
-  "bbox_right": 55,
-  "bbox_top": 4,
+  "bbox_bottom": 47,
+  "bbox_left": 15,
+  "bbox_right": 113,
+  "bbox_top": 24,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,9 +13,9 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f68b7c1b-217b-4a6b-ab13-17caacb90dd8",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6320a2db-8cb4-478b-954c-abf758270048",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b41d6427-f2eb-483f-bf19-3edddb978338",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1706f6b2-e0b6-47b2-9a73-9d6d629a485a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"732ac19f-fcea-4e0e-9a82-d26c43d18bbb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3dc71ba9-f606-4019-97d8-d2cbff848d3e",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -27,8 +27,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Battle System",
-    "path": "folders/Sprites/Battle System.yy",
+    "name": "Health",
+    "path": "folders/All/PlayerBar/Health.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -56,9 +56,9 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f68b7c1b-217b-4a6b-ab13-17caacb90dd8","path":"sprites/sHearts/sHearts.yy",},},},"Disabled":false,"id":"9daaf04a-388b-45a3-a453-39452351aee9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6320a2db-8cb4-478b-954c-abf758270048","path":"sprites/sHearts/sHearts.yy",},},},"Disabled":false,"id":"06c50442-baef-424b-9e50-53d9a5cfc8be","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b41d6427-f2eb-483f-bf19-3edddb978338","path":"sprites/sHearts/sHearts.yy",},},},"Disabled":false,"id":"af394664-33bb-43e0-94db-7f117e201da1","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1706f6b2-e0b6-47b2-9a73-9d6d629a485a","path":"sprites/sHearts/sHearts.yy",},},},"Disabled":false,"id":"848b631b-34f9-4822-9948-decd56ff9143","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"732ac19f-fcea-4e0e-9a82-d26c43d18bbb","path":"sprites/sHearts/sHearts.yy",},},},"Disabled":false,"id":"f31c063c-9a70-4e0b-99ad-4a220f1c92a0","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3dc71ba9-f606-4019-97d8-d2cbff848d3e","path":"sprites/sHearts/sHearts.yy",},},},"Disabled":false,"id":"dfdf7a98-c1a9-44cf-98cb-23bac5604227","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -74,5 +74,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 128,
 }

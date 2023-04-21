@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Battle System",
-    "path": "folders/Objekte/Battle System.yy",
+    "name": "Fireball",
+    "path": "folders/All/Placeholder/Fireball.yy",
   },
   "parentObjectId": null,
   "persistent": false,

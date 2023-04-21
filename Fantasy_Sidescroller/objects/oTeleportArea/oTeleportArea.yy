@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Navigation",
-    "path": "folders/Objekte/Navigation.yy",
+    "path": "folders/All/Navigation.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Map Objects",
-    "path": "folders/Sprites/Map Objects.yy",
+    "name": "Level4",
+    "path": "folders/Bibliothek/MapObjects/Books/Level4.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Wallapaper Objects",
-    "path": "folders/Sprites/Wallapaper Objects.yy",
+    "name": "Wallpaper",
+    "path": "folders/Bibliothek/Wallpaper.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

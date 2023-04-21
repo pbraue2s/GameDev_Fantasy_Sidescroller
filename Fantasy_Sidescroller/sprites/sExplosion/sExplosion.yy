@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Battle System",
-    "path": "folders/Sprites/Battle System.yy",
+    "name": "Fireball",
+    "path": "folders/All/Placeholder/Fireball.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

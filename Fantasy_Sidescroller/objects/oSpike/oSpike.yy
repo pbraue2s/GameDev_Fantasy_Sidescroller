@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Map Objects",
-    "path": "folders/Objekte/Map Objects.yy",
+    "name": "Spike",
+    "path": "folders/All/Placeholder/Spike.yy",
   },
   "parentObjectId": null,
   "persistent": false,

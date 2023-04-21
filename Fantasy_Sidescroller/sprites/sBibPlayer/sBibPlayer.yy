@@ -49,8 +49,8 @@
   },
   "origin": 4,
   "parent": {
-    "name": "Player",
-    "path": "folders/Sprites/Player.yy",
+    "name": "Character",
+    "path": "folders/Bibliothek/Character.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

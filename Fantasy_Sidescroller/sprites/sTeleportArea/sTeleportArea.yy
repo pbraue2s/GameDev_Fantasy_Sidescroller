@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Navigation",
-    "path": "folders/Sprites/Navigation.yy",
+    "path": "folders/All/Navigation.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

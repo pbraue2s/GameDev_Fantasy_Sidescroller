@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Map Objects",
-    "path": "folders/Sprites/Map Objects.yy",
+    "name": "Spike",
+    "path": "folders/All/Placeholder/Spike.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
