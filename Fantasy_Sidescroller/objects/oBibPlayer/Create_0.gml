@@ -3,3 +3,4 @@
 event_inherited();
 
 walksp = 6;
+csp=10;
