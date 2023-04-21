@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Map Objects",
-    "path": "folders/Sprites/Map Objects.yy",
+    "name": "InteractPopup",
+    "path": "folders/Bibliothek/MapObjects/Books/InteractPopup.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

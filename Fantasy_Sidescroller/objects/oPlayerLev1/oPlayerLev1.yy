@@ -8,12 +8,12 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Player",
-    "path": "folders/Objekte/Player.yy",
+    "name": "Charakter",
+    "path": "folders/Level1/Charakter.yy",
   },
   "parentObjectId": {
-    "name": "oPlayer",
-    "path": "objects/oPlayer/oPlayer.yy",
+    "name": "oPlaceholderCharacter",
+    "path": "objects/oPlaceholderCharacter/oPlaceholderCharacter.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

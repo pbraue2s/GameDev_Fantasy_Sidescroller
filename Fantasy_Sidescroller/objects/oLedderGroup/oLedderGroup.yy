@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Ledder",
-    "path": "folders/Objekte/Map Objects/Ledder.yy",
+    "path": "folders/Bibliothek/MapObjects/Ledder.yy",
   },
   "parentObjectId": null,
   "persistent": false,

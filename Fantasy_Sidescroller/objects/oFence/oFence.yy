@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Map Objects",
-    "path": "folders/Objekte/Map Objects.yy",
+    "name": "Fence",
+    "path": "folders/Bibliothek/MapObjects/Fence.yy",
   },
   "parentObjectId": {
     "name": "oMapObject",
