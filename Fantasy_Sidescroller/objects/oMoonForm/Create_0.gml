@@ -3,6 +3,5 @@
 // Inherit the parent event
 event_inherited();
 
-mapGrv = 0.2;
-extraJumpDelay = 30;
-waitAfterJump = 100;
+mapGrv = 0.1;
+moonCatched = 1;

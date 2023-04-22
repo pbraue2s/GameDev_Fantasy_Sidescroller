@@ -4,6 +4,7 @@ if(transform <= 0){
 		hsp = oMoonForm.hsp;
 		image_xscale = oMoonForm.image_xscale;
 		transform = ShapeshiftDelay;
+		moonCatched = oMoonForm.moonCatched;
 	}
 	instance_destroy();
 }

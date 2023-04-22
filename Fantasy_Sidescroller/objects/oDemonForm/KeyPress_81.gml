@@ -5,5 +5,6 @@ if(transform <= 0){
 		image_xscale = oDemonForm.image_xscale;
 		transform = ShapeshiftDelay;
 	}
+	instance_destroy(oSunSwort);
 	instance_destroy();
 }

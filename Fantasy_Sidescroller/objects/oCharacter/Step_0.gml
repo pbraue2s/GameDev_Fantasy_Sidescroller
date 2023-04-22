@@ -18,10 +18,10 @@ if(keyUp > keySpace){
 }
 //Movement
 // left right
-hsp = (move * walksp) + individualx;
+hsp = move * walksp;
 
 // gravity
-vsp = (vsp + currentGrv) + individualy;
+vsp = vsp + currentGrv;
 
 // jumping
 if(place_meeting(x, y+1, oMapObject)) && ((keySpace)||(keyUp)){
