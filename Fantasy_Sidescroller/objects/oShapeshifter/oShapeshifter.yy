@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPlayerPlaceholder2",
-  "eventList": [],
+  "name": "oShapeshifter",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -10,8 +13,8 @@
     "path": "folders/Level2/Charakter.yy",
   },
   "parentObjectId": {
-    "name": "oPlaceholderCharacter",
-    "path": "objects/oPlaceholderCharacter/oPlaceholderCharacter.yy",
+    "name": "oLevelCharacter",
+    "path": "objects/oLevelCharacter/oLevelCharacter.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -28,10 +31,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "sPlayer2",
-    "path": "sprites/sPlayer2/sPlayer2.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

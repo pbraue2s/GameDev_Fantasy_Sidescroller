@@ -343,7 +343,6 @@
     {"name":"inst_7A3F3BA1_1_1_1","path":"rooms/Level4/Level4.yy",},
     {"name":"inst_50CAED4C_1_1_1","path":"rooms/Level4/Level4.yy",},
     {"name":"inst_755FC3FF_1_1_1","path":"rooms/Level4/Level4.yy",},
-    {"name":"inst_1F273A1A_1_1_1","path":"rooms/Level4/Level4.yy",},
     {"name":"inst_5C6684CF_1_1_1","path":"rooms/Level4/Level4.yy",},
     {"name":"inst_62117D63_1_1_1","path":"rooms/Level4/Level4.yy",},
     {"name":"inst_1D768041","path":"rooms/Level4/Level4.yy",},
@@ -352,7 +351,6 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Fireball","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Player","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1F273A1A_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPlayerPlaceholder2","path":"objects/oPlayerPlaceholder2/oPlayerPlaceholder2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":236.0,"y":1972.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5C6684CF_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":1856.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_62117D63_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oHearts","path":"objects/oHearts/oHearts.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
