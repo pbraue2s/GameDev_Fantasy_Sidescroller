@@ -6,5 +6,3 @@ currentGrv = mapGrv;
 walksp = 4;
 csp = 0;
 climbsp = 3;
-individualx = 0;
-individualy = 0;
