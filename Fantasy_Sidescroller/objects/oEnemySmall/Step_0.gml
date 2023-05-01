@@ -56,8 +56,11 @@ if(dmgIncomeDelay > 0){
 // Reduzieren der Schadensverzögerung, wenn sie größer als 0 ist.
 
 if(place_meeting(x,y,oFireball) and dmgIncomeDelay == 0){
+	  instance_create_layer(oEnemySmall.x,oEnemySmall.y , "Fireball",oExplosion );
+	instance_destroy(oFireball);
     enemyMaxHealth--;
     dmgIncomeDelay = 20;
+
 }
 
 // Reduzieren der enemyMaxHealth, wenn das Objekt von einem oFireball getroffen wird.
@@ -73,3 +76,4 @@ if(place_meeting(x+movementSpeed, y, oMapObject)){
 // Ändern der Bewegungsrichtung, wenn das Objekt auf ein oMapObject trifft.
 // Wenn das Objekt zwischen einem oMapObject und einem oEnemySmall eingeklemmt ist, bewegt es sich ein Schritt nach links oder rechts
 x += movementSpeed;
+
