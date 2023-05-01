@@ -50,6 +50,7 @@
     {"name":"MapObjects","order":4,"path":"folders/Level4/MapObjects.yy",},
     {"name":"Room","order":1,"path":"folders/Level4/Room.yy",},
     {"name":"Wallpaper","order":5,"path":"folders/Level4/Wallpaper.yy",},
+    {"name":"Enemys","order":6,"path":"folders/Level1/Enemys.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sTeleportBookLevel4","order":1,"path":"sprites/sTeleportBookLevel4/sTeleportBookLevel4.yy",},
@@ -64,6 +65,7 @@
     {"name":"sPlayer4","order":1,"path":"sprites/sPlayer4/sPlayer4.yy",},
     {"name":"sWoodWall","order":2,"path":"sprites/sWoodWall/sWoodWall.yy",},
     {"name":"sBibPlayer","order":1,"path":"sprites/sBibPlayer/sBibPlayer.yy",},
+    {"name":"oEnemySmall","order":1,"path":"objects/oEnemySmall/oEnemySmall.yy",},
     {"name":"sTeleportBookLevel2","order":1,"path":"sprites/sTeleportBookLevel2/sTeleportBookLevel2.yy",},
     {"name":"oLedderGroup","order":3,"path":"objects/oLedderGroup/oLedderGroup.yy",},
     {"name":"sLedderBottom","order":1,"path":"sprites/sLedderBottom/sLedderBottom.yy",},

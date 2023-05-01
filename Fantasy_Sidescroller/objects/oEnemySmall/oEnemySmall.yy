@@ -1,22 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPlayerLev1",
+  "name": "oEnemySmall",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Charakter",
-    "path": "folders/Level1/Charakter.yy",
+    "name": "Enemys",
+    "path": "folders/Level1/Enemys.yy",
   },
-  "parentObjectId": {
-    "name": "oPlaceholderCharacter",
-    "path": "objects/oPlaceholderCharacter/oPlaceholderCharacter.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -33,12 +30,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlayerLev1",
-    "path": "sprites/sPlayerLev1/sPlayerLev1.yy",
+    "name": "sEnemySmall",
+    "path": "sprites/sEnemySmall/sEnemySmall.yy",
   },
-  "spriteMaskId": {
-    "name": "sPlayerLev1",
-    "path": "sprites/sPlayerLev1/sPlayerLev1.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }
