@@ -1,4 +1,4 @@
-enemyMaxHealth = 10;
+enemyMaxHealth = 6;
 dmgIncomeDelay = 0;
 movementSpeed = 2;
 deathcounter = 0;
