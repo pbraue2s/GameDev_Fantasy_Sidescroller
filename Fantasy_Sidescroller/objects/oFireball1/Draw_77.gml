@@ -4,7 +4,7 @@
 // Inherit the parent event
 event_inherited();
 if(place_meeting(x,y,oEnemySmall)){
-	instance_create_layer(oEnemySmall.x,oEnemySmall.y, "Fireball", oExplosion);
+	instance_create_layer(x,y, "Fireball", oExplosion);
 	instance_destroy();
 }
 
