@@ -56,7 +56,8 @@ if(dmgIncomeDelay > 0){
 // Reduzieren der Schadensverzögerung, wenn sie größer als 0 ist.
 
 if(place_meeting(x,y,oFireball) and dmgIncomeDelay == 0){
-	  instance_create_layer(oEnemySmall.x,oEnemySmall.y , "Fireball",oExplosion );
+	  image_index = 1;
+	 instance_create_layer(oEnemySmall.x,oEnemySmall.y , "Fireball",oExplosion );
 	instance_destroy(oFireball);
     enemyMaxHealth--;
     dmgIncomeDelay = 20;
