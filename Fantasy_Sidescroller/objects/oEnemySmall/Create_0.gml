@@ -9,5 +9,7 @@ dmgIncomeDelay = 0;
 movementSpeed = 2;
 deathcounter = 0;
 alreadyDead = 0;
+lastFrameDelay=0;
+canShoot=true;
 global.enemyCount=0;
 global.enemyCount++;

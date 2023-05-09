@@ -20,24 +20,30 @@ if(dmgIncomeDelay > 12){
 // Setzen des aktuellen Frames des Sprites basierend auf der Verzögerung seit dem letzten Schadenseingang.
 // Wenn die Verzögerung größer als 12 ist, wird der zweite Frame des Sprites angezeigt. Ansonsten wird der erste Frame angezeigt.
 
-if(deathcounter > 8){
-    image_index = 2;
-}else if(deathcounter > 6){
-    image_index = 3;
-}else if(deathcounter > 4){
-    image_index = 4;
-}else if(deathcounter > 2){
-    image_index = 5;
-}else if(deathcounter > 0){
-    instance_destroy();
-}
+
 
 // Setzen des aktuellen Frames des Sprites basierend auf dem Tod des Gegners.
 // Wenn der deathcounter größer als 8 ist, wird der dritte Frame angezeigt, usw.
 // Wenn deathcounter kleiner oder gleich 0 ist, wird die Instanz des Gegners zerstört.
 
-if(deathcounter > 0){
-    deathcounter--;
+if (deathcounter > 0) {
+  deathcounter--;
+   
+  if (deathcounter == 0) {
+	  movementSpeed=0;
+    lastFrameDelay = 20; // Hier können Sie die Anzeigedauer des letzten Frames einstellen (in diesem Fall 1 Sekunde)
+  }
+}
+
+if (lastFrameDelay > 0) {
+  image_index = 2; // Hier sollten Sie den Index des letzten Frames einsetzen
+  image_index = 3;
+  
+ lastFrameDelay--;
+  if (lastFrameDelay == 0) {
+	  image_index = 4;
+    instance_destroy();
+  }
 }
 
 // Reduzieren des deathcounter, wenn das Objekt getroffen wird.
@@ -78,3 +84,24 @@ if(place_meeting(x+movementSpeed, y, oMapObject)){
 // Wenn das Objekt zwischen einem oMapObject und einem oEnemySmall eingeklemmt ist, bewegt es sich ein Schritt nach links oder rechts
 x += movementSpeed;
 
+if (canShoot) {
+  // Create a new Fireball instance
+
+var fireball = instance_create_layer(oEnemySmall.x,oEnemySmall.y, "Fireball", oFireball2);
+ fireball.speed=10;
+ fireball.direction=image_xscale;
+  
+
+  // Set a delay until the enemy can shoot again
+  shootDelay = 30;
+  // Prevent the enemy from shooting again until the delay is over
+  canShoot = false;
+} else {
+  // Reduce the shoot delay countdown
+  shootDelay--;
+  // Allow shooting again once the delay is over
+  if (shootDelay <= 0) {
+
+    canShoot = true;
+  }
+}
