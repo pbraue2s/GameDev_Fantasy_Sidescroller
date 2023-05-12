@@ -7,12 +7,9 @@ if(place_meeting(x, y, oEnemySmall)) && (dmgIncomeDelay < 0){
 	dmgIncomeDelay = 25;
 	health--;
 }
-else if(place_meeting(x,y,oFireball2))  && (dmgIncomeDelay < 0){
+else if(place_meeting(x,y,oExplosion1))  && (dmgIncomeDelay < 0){
 	dmgIncomeDelay = 25;
 	health--;
 	 instance_create_layer(x,y , "Fireball",oExplosion );
-	instance_destroy(oFireball2);
-  
-
 }
 

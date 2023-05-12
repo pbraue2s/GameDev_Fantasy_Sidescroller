@@ -89,7 +89,11 @@ if (canShoot) {
 
 var fireball = instance_create_layer(oEnemySmall.x,oEnemySmall.y, "Fireball", oFireball2);
  fireball.speed=10;
- fireball.direction=image_xscale;
+ if(image_xscale > 0){
+	 fireball.direction = 0; // rechts angegeben in Grad
+ }else{
+	 fireball.direction = 180; // links angegeben in Grad
+ }
   
 
   // Set a delay until the enemy can shoot again
