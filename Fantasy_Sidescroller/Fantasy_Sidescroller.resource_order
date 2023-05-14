@@ -80,7 +80,7 @@
     {"name":"sWoodWallCarpet","order":3,"path":"sprites/sWoodWallCarpet/sWoodWallCarpet.yy",},
     {"name":"sTeleportArea","order":1,"path":"sprites/sTeleportArea/sTeleportArea.yy",},
     {"name":"sChandelier","order":1,"path":"sprites/sChandelier/sChandelier.yy",},
-    {"name":"oSowrd","order":1,"path":"objects/oSowrd/oSowrd.yy",},
+    {"name":"oSword","order":1,"path":"objects/oSword/oSword.yy",},
     {"name":"sFireball","order":3,"path":"sprites/sFireball/sFireball.yy",},
     {"name":"PlaceholderNote","order":1,"path":"notes/PlaceholderNote/PlaceholderNote.yy",},
     {"name":"sPlayer3","order":1,"path":"sprites/sPlayer3/sPlayer3.yy",},

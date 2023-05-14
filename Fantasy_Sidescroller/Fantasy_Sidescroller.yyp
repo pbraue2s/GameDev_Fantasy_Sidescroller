@@ -124,7 +124,7 @@
     {"id":{"name":"sEnemySmall","path":"sprites/sEnemySmall/sEnemySmall.yy",},},
     {"id":{"name":"sTeleportArea","path":"sprites/sTeleportArea/sTeleportArea.yy",},},
     {"id":{"name":"sChandelier","path":"sprites/sChandelier/sChandelier.yy",},},
-    {"id":{"name":"oSowrd","path":"objects/oSowrd/oSowrd.yy",},},
+    {"id":{"name":"oSword","path":"objects/oSword/oSword.yy",},},
     {"id":{"name":"oLedderBottom","path":"objects/oLedderBottom/oLedderBottom.yy",},},
     {"id":{"name":"sFireball","path":"sprites/sFireball/sFireball.yy",},},
     {"id":{"name":"PlaceholderNote","path":"notes/PlaceholderNote/PlaceholderNote.yy",},},

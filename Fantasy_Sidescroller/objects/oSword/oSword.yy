@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oSowrd",
+  "name": "oSword",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

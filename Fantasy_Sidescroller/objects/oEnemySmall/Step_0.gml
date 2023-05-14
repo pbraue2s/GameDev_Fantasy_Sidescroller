@@ -61,15 +61,29 @@ if(dmgIncomeDelay > 0){
 
 // Reduzieren der Schadensverzögerung, wenn sie größer als 0 ist.
 
-if(place_meeting(x,y,oFireball) and dmgIncomeDelay == 0){
-	  image_index = 1;
-	 instance_create_layer(oEnemySmall.x,oEnemySmall.y , "Fireball",oExplosion );
-	instance_destroy(oFireball);
+//if(place_meeting(x,y,oFireball) and dmgIncomeDelay == 0){
+//	  image_index = 1;
+//	 instance_create_layer(oEnemySmall.x,oEnemySmall.y , "Fireball",oExplosion );
+//	instance_destroy(oFireball);
+//    enemyMaxHealth--;
+ //   dmgIncomeDelay = 20;
+
+//}
+//if(place_meeting(x,y,oFireball) and dmgIncomeDelay == 0){
+//	  image_index = 1;
+//	 instance_create_layer(x,y , "Fireball",oExplosion );
+//	instance_destroy(oFireball);
+    //enemyMaxHealth--;
+  //  dmgIncomeDelay = 20;
+
+//}
+if(place_meeting(x,y,oSword) and (dmgIncomeDelay == 0 )and (mouse_check_button(mb_left))){
+	 
+	 
     enemyMaxHealth--;
     dmgIncomeDelay = 20;
 
 }
-
 // Reduzieren der enemyMaxHealth, wenn das Objekt von einem oFireball getroffen wird.
 // Setzen der Schadensverzögerung auf 20, damit der Schaden nicht sofort erneut auftritt.
 
