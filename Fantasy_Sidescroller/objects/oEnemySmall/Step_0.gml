@@ -88,7 +88,7 @@ if (canShoot) {
   // Create a new Fireball instance
 
 var fireball = instance_create_layer(oEnemySmall.x,oEnemySmall.y, "Fireball", oFireball2);
- fireball.speed=10;
+ fireball.speed=8;
  if(image_xscale > 0){
 	 fireball.direction = 0; // rechts angegeben in Grad
  }else{
@@ -97,7 +97,7 @@ var fireball = instance_create_layer(oEnemySmall.x,oEnemySmall.y, "Fireball", oF
   
 
   // Set a delay until the enemy can shoot again
-  shootDelay = 30;
+  shootDelay = 60;
   // Prevent the enemy from shooting again until the delay is over
   canShoot = false;
 } else {
