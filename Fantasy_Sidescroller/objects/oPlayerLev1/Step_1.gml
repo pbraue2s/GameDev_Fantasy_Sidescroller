@@ -17,3 +17,7 @@ if(place_meeting(x,y,oExplosion1))  && (dmgIncomeDelay < 0){
 	health--;
 	 instance_create_layer(x,y , "Fireball",oExplosion );
 }
+if(place_meeting(x, y, oEnemySword)) && (dmgIncomeDelay < 0){
+	dmgIncomeDelay = 25;
+	health--;
+}
