@@ -19,8 +19,9 @@ if(keyUp > keySpace){
 //Movement
 // left right
 hsp = move * walksp;
+
 // gravity
-vsp += grv;
+vsp = vsp + currentGrv;
 
 // jumping
 if(place_meeting(x, y+1, oMapObject)) && ((keySpace)||(keyUp)){
@@ -28,11 +29,11 @@ if(place_meeting(x, y+1, oMapObject)) && ((keySpace)||(keyUp)){
 }
 // ledder
 if(place_meeting(x, y, oLedderGroup)){
-	grv = 0;
+	currentGrv = 0;
 	vsp = climb * climbsp;
 }else{
-	grv = 0.3;
-	vsp += grv;
+	currentGrv = mapGrv;
+	vsp += currentGrv;
 }
 
 

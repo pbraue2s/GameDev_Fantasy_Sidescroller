@@ -343,7 +343,6 @@
     {"name":"inst_7A3F3BA1_1_1","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_50CAED4C_1_1","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_755FC3FF_1_1","path":"rooms/Level3/Level3.yy",},
-    {"name":"inst_1F273A1A_1_1","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_5C6684CF_1_1","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_62117D63_1_1","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_5880F1DB","path":"rooms/Level3/Level3.yy",},
@@ -696,6 +695,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_50CAED4C_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oTeleportArea","path":"objects/oTeleportArea/oTeleportArea.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":1920.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_755FC3FF_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oTeleportArea","path":"objects/oTeleportArea/oTeleportArea.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":1952.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5880F1DB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oSpike","path":"objects/oSpike/oSpike.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2064.0,"y":1968.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4D0D8F63","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPlayerPlaceholder3","path":"objects/oPlayerPlaceholder3/oPlayerPlaceholder3.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":220.0,"y":1972.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":300,"effectEnabled":true,"effectType":"_filter_gradient","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[
         {"name":"g_GradientColour1","type":1,"value":"#FF190100",},
