@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oGem",
+  "name": "oEndBlock",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -9,7 +9,10 @@
     "name": "MapObjects",
     "path": "folders/Level2/MapObjects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oMapObject",
+    "path": "objects/oMapObject/oMapObject.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sGem",
-    "path": "sprites/sGem/sGem.yy",
+    "name": "sEndBlock",
+    "path": "sprites/sEndBlock/sEndBlock.yy",
   },
   "spriteMaskId": null,
   "visible": true,

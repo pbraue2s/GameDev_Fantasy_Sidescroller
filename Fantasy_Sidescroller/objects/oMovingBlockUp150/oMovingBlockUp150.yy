@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oEnemyMax",
+  "name": "oMovingBlockUp150",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -9,10 +9,13 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemys",
-    "path": "folders/Level2/Enemys.yy",
+    "name": "MovingBlock(currently bugged)",
+    "path": "folders/Level2/MapObjects/MovingBlock(currently bugged).yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oMapObject",
+    "path": "objects/oMapObject/oMapObject.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sEnemyMax",
-    "path": "sprites/sEnemyMax/sEnemyMax.yy",
+    "name": "sMovingBlockUpDown",
+    "path": "sprites/sMovingBlockUpDown/sMovingBlockUpDown.yy",
   },
   "spriteMaskId": null,
   "visible": true,
