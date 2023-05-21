@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"sFireball","order":1,"path":"sprites/sFireball/sFireball.yy",},
+  ],
 }
