@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlayer4",
-    "path": "sprites/sPlayer4/sPlayer4.yy",
+    "name": "ccb710d1_bd9b_4aed_96b1_b87e9dccad48",
+    "path": "sprites/ccb710d1_bd9b_4aed_96b1_b87e9dccad48/ccb710d1_bd9b_4aed_96b1_b87e9dccad48.yy",
   },
   "spriteMaskId": null,
   "visible": true,

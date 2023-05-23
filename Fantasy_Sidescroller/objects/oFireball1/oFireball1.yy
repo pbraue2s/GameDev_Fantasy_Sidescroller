@@ -27,7 +27,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sFireball",
+    "path": "sprites/sFireball/sFireball.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
