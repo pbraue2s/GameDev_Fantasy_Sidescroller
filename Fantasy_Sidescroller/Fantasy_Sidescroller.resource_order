@@ -1,7 +1,8 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
-    {"name":"sFireball","order":1,"path":"sprites/sFireball/sFireball.yy",},
-    {"name":"sFireball","order":1,"path":"sprites/sFireball/sFireball.yy",},
+    {"name":"oErde2","order":3,"path":"objects/oErde2/oErde2.yy",},
+    {"name":"sErde2","order":2,"path":"sprites/sErde2/sErde2.yy",},
+    {"name":"oErde","order":1,"path":"objects/oErde/oErde.yy",},
   ],
 }
