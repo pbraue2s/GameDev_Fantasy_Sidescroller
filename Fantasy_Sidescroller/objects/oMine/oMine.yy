@@ -1,17 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oErde2",
-  "eventList": [],
+  "name": "oMine",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":77,"eventType":8,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MapObjects",
-    "path": "folders/Level1/MapObjects.yy",
+    "name": "Placeholder",
+    "path": "folders/Level1/Placeholder.yy",
   },
   "parentObjectId": {
-    "name": "oMapObject",
-    "path": "objects/oMapObject/oMapObject.yy",
+    "name": "oSpike",
+    "path": "objects/oSpike/oSpike.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sErde2",
-    "path": "sprites/sErde2/sErde2.yy",
+    "name": "sMine",
+    "path": "sprites/sMine/sMine.yy",
   },
   "spriteMaskId": null,
   "visible": true,

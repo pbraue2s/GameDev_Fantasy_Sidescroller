@@ -4,7 +4,7 @@
 event_inherited();
 
 //Animation
-if(place_meeting(x,y+1,oWall)){
+if(place_meeting(x,y+1,oErde)){
 
 	image_speed= 1;
 	if(hsp==0){

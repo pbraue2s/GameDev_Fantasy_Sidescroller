@@ -4,9 +4,10 @@
 // Inherit the parent event
 event_inherited();
 --dmgIncomeDelay
-if(place_meeting(x, y, oSpike)) && (dmgIncomeDelay < 0){
+if(place_meeting(x, y, oMine)) && (dmgIncomeDelay < 0){
 	dmgIncomeDelay = 25;
 	health--;
+	instance_create_layer(x,y , "Fireball",oExplosion1 );
 }
 if(place_meeting(x, y, oEnemySmall)) && (dmgIncomeDelay < 0){
 	dmgIncomeDelay = 25;

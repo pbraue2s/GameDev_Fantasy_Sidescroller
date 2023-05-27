@@ -1,18 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oErde2",
+  "name": "oGam3",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MapObjects",
-    "path": "folders/Level1/MapObjects.yy",
+    "name": "BattleSystem",
+    "path": "folders/Level1/BattleSystem.yy",
   },
-  "parentObjectId": {
-    "name": "oMapObject",
-    "path": "objects/oMapObject/oMapObject.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sErde2",
-    "path": "sprites/sErde2/sErde2.yy",
+    "name": "sGams3",
+    "path": "sprites/sGams3/sGams3.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oErde2",
+  "name": "oBerg",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sErde2",
-    "path": "sprites/sErde2/sErde2.yy",
+    "name": "sBerg",
+    "path": "sprites/sBerg/sBerg.yy",
   },
   "spriteMaskId": null,
   "visible": true,
