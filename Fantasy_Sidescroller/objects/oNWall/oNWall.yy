@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oGam1",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":77,"eventType":8,"isDnD":false,},
-  ],
+  "name": "oNWall",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "BattleSystem",
-    "path": "folders/Level1/BattleSystem.yy",
+    "name": "MapObjects",
+    "path": "folders/Level1/MapObjects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sGams1",
-    "path": "sprites/sGams1/sGams1.yy",
+    "name": "sNWall",
+    "path": "sprites/sNWall/sNWall.yy",
   },
   "spriteMaskId": null,
   "visible": true,

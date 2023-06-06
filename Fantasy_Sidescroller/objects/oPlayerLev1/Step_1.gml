@@ -22,3 +22,8 @@ if(place_meeting(x, y, oEnemySword)) && (dmgIncomeDelay < 0){
 	dmgIncomeDelay = 25;
 	health--;
 }
+if(place_meeting(x,y,oNWall)){
+	health--;
+	x = 1150;
+	y = 1851;
+}

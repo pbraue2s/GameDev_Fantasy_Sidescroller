@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sExplosion",
-    "path": "sprites/sExplosion/sExplosion.yy",
+    "name": "sExplosion1",
+    "path": "sprites/sExplosion1/sExplosion1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
