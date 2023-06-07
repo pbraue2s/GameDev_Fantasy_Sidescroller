@@ -294,8 +294,8 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Fireball","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
   ],
   "parent": {
-    "name": "Room",
-    "path": "folders/Level4/Room.yy",
+    "name": "Fantasy_Sidescroller",
+    "path": "Fantasy_Sidescroller.yyp",
   },
   "parentRoom": null,
   "physicsSettings": {
