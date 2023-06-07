@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Wall",
-    "path": "folders/All/Placeholder/Wall.yy",
+    "name": "All",
+    "path": "folders/All.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

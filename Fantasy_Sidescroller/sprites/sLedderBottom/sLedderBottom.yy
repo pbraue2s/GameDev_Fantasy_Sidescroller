@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Bottom",
-    "path": "folders/Bibliothek/MapObjects/Ledder/Bottom.yy",
+    "name": "Bibliothek",
+    "path": "folders/Bibliothek.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

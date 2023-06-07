@@ -49,8 +49,8 @@
   },
   "origin": 4,
   "parent": {
-    "name": "Character",
-    "path": "folders/Bibliothek/Character.yy",
+    "name": "Bibliothek",
+    "path": "folders/Bibliothek.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

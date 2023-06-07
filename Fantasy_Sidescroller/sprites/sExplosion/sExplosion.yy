@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sExplosion",
-  "bbox_bottom": 0,
-  "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_bottom": 62,
+  "bbox_left": 1,
+  "bbox_right": 63,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Fireball",
-    "path": "folders/All/Placeholder/Fireball.yy",
+    "name": "All",
+    "path": "folders/All.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

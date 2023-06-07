@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Navigation",
-    "path": "folders/All/Navigation.yy",
+    "name": "All",
+    "path": "folders/All.yy",
   },
   "parentObjectId": null,
   "persistent": false,

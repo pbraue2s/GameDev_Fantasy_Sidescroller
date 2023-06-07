@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "CharakterParents",
-    "path": "folders/All/CharakterParents.yy",
+    "name": "All",
+    "path": "folders/All.yy",
   },
   "parentObjectId": {
     "name": "oCharacter",

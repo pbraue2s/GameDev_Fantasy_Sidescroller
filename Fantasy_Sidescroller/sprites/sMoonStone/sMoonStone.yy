@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "MapObjects",
-    "path": "folders/Level2/MapObjects.yy",
+    "name": "Level 2",
+    "path": "folders/Level 2.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

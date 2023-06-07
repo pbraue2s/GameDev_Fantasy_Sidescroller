@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Placeholder",
-    "path": "folders/All/Placeholder.yy",
+    "name": "All",
+    "path": "folders/All.yy",
   },
   "parentObjectId": {
     "name": "oLevelCharacter",

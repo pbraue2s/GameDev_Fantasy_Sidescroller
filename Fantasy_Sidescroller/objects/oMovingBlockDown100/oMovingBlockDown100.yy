@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MovingBlock(currently bugged)",
-    "path": "folders/Level2/MapObjects/MovingBlock(currently bugged).yy",
+    "name": "Level 2",
+    "path": "folders/Level 2.yy",
   },
   "parentObjectId": {
     "name": "oMapObject",

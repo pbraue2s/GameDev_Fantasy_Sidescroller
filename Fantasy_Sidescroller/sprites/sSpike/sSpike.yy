@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Spike",
-    "path": "folders/All/Placeholder/Spike.yy",
+    "name": "Level 1",
+    "path": "folders/Level 1.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Placeholder",
-    "path": "folders/Level1/Placeholder.yy",
+    "name": "Level 1",
+    "path": "folders/Level 1.yy",
   },
   "parentObjectId": null,
   "persistent": false,

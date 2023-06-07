@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Middle",
-    "path": "folders/Bibliothek/MapObjects/Ledder/Middle.yy",
+    "name": "Bibliothek",
+    "path": "folders/Bibliothek.yy",
   },
   "parentObjectId": {
     "name": "oLedderGroup",

@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Fireball",
-    "path": "folders/All/Placeholder/Fireball.yy",
+    "name": "All",
+    "path": "folders/All.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "InteractPopup",
-    "path": "folders/Bibliothek/MapObjects/Books/InteractPopup.yy",
+    "name": "All",
+    "path": "folders/All.yy",
   },
   "parentObjectId": null,
   "persistent": false,

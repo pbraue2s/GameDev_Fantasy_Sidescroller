@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Ledder",
-    "path": "folders/Bibliothek/MapObjects/Ledder.yy",
+    "name": "Bibliothek",
+    "path": "folders/Bibliothek.yy",
   },
   "parentObjectId": null,
   "persistent": false,

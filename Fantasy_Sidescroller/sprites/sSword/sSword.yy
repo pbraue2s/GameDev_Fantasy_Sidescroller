@@ -27,8 +27,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "BattleSystem",
-    "path": "folders/Level1/BattleSystem.yy",
+    "name": "Level 1",
+    "path": "folders/Level 1.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

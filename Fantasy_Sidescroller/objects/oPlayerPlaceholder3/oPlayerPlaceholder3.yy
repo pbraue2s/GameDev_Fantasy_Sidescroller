@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Charakter",
-    "path": "folders/Level3/Charakter.yy",
+    "name": "Endboss",
+    "path": "folders/Endboss.yy",
   },
   "parentObjectId": {
     "name": "oPlaceholderCharacter",

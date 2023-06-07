@@ -19,16 +19,16 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 96,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9c1eba0e-fe7b-40fa-ae04-1aefb8caf599","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 6,
+  "origin": 9,
   "parent": {
-    "name": "BattleSystem",
-    "path": "folders/Level2/BattleSystem.yy",
+    "name": "Level 2",
+    "path": "folders/Level 2.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -64,7 +64,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 0,
-    "yorigin": 128,
+    "yorigin": 96,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
@@ -74,5 +74,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 96,
 }

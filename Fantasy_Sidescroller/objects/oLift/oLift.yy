@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Lift",
-    "path": "folders/Level2/MapObjects/Lift.yy",
+    "name": "Level 2",
+    "path": "folders/Level 2.yy",
   },
   "parentObjectId": {
     "name": "oMapObject",
