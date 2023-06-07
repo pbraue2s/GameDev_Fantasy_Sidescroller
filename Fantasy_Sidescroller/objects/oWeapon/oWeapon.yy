@@ -1,21 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oExplosion1",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":false,},
-  ],
+  "name": "oWeapon",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 1",
-    "path": "folders/Level 1.yy",
+    "name": "BattleSystem",
+    "path": "folders/Level1/BattleSystem.yy",
   },
-  "parentObjectId": {
-    "name": "oExplosion",
-    "path": "objects/oExplosion/oExplosion.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sExplosion1",
-    "path": "sprites/sExplosion1/sExplosion1.yy",
+    "name": "sWeapon",
+    "path": "sprites/sWeapon/sWeapon.yy",
   },
   "spriteMaskId": null,
   "visible": true,

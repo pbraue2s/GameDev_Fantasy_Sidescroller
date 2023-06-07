@@ -1,20 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oExplosion1",
+  "name": "oMine",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":77,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 1",
-    "path": "folders/Level 1.yy",
+    "name": "Placeholder",
+    "path": "folders/Level1/Placeholder.yy",
   },
   "parentObjectId": {
-    "name": "oExplosion",
-    "path": "objects/oExplosion/oExplosion.yy",
+    "name": "oSpike",
+    "path": "objects/oSpike/oSpike.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -32,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sExplosion1",
-    "path": "sprites/sExplosion1/sExplosion1.yy",
+    "name": "sMine",
+    "path": "sprites/sMine/sMine.yy",
   },
   "spriteMaskId": null,
   "visible": true,
