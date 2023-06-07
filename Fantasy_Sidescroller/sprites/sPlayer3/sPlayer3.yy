@@ -26,7 +26,7 @@
   "origin": 4,
   "parent": {
     "name": "Charakter",
-    "path": "folders/Level3/Charakter.yy",
+    "path": "folders/EndbossRoom/Charakter.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

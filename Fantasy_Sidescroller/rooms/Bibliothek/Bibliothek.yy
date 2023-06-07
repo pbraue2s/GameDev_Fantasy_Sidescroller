@@ -335,6 +335,7 @@
     {"name":"inst_62F55D0F","path":"rooms/Bibliothek/Bibliothek.yy",},
     {"name":"inst_74F49143","path":"rooms/Bibliothek/Bibliothek.yy",},
     {"name":"inst_6FAD8C1E","path":"rooms/Bibliothek/Bibliothek.yy",},
+    {"name":"inst_2300B6FF","path":"rooms/Bibliothek/Bibliothek.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -670,6 +671,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7844E2F5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oTeleportBookLevel2","path":"objects/oTeleportBookLevel2/oTeleportBookLevel2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1328.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3AA4F0C9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oTeleportBookLevel3","path":"objects/oTeleportBookLevel3/oTeleportBookLevel3.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":720.0,"y":384.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_62F55D0F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oTeleportBookLevel4","path":"objects/oTeleportBookLevel4/oTeleportBookLevel4.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":720.0,"y":672.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2300B6FF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oArtefakt","path":"objects/oArtefakt/oArtefakt.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1024.0,"y":928.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Wallpaper","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_5F12AD64","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"sBookshelf","path":"sprites/sBookshelf/sBookshelf.yy",},"x":32.0,"y":864.0,},

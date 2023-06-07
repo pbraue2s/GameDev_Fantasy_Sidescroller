@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Charakter",
-    "path": "folders/Level3/Charakter.yy",
+    "path": "folders/EndbossRoom/Charakter.yy",
   },
   "parentObjectId": {
     "name": "oPlaceholderCharacter",
