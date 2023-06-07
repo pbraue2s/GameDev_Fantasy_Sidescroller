@@ -1,6 +1,7 @@
 # Game Development Projekt SS23
 
-Gruppe:     Library of Magic
+Gruppe:     Library of Magic 
+
 Professor:  Haiden
 
 Entwickler:
