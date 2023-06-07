@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Charakter",
-    "path": "folders/Level4/Charakter.yy",
+    "name": "Level 3",
+    "path": "folders/Level 3.yy",
   },
   "parentObjectId": {
     "name": "oEnemyX",

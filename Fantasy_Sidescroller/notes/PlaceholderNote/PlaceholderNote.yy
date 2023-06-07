@@ -3,7 +3,7 @@
   "resourceVersion": "1.1",
   "name": "PlaceholderNote",
   "parent": {
-    "name": "Fantasy_Sidescroller",
-    "path": "Fantasy_Sidescroller.yyp",
+    "name": "All",
+    "path": "folders/All.yy",
   },
 }

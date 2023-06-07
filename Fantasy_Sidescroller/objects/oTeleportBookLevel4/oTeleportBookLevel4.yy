@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Fantasy_Sidescroller",
-    "path": "Fantasy_Sidescroller.yyp",
+    "name": "Bibliothek",
+    "path": "folders/Bibliothek.yy",
   },
   "parentObjectId": {
     "name": "oInteract",

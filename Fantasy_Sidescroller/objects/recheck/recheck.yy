@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Fantasy_Sidescroller",
-    "path": "Fantasy_Sidescroller.yyp",
+    "name": "Level 3",
+    "path": "folders/Level 3.yy",
   },
   "parentObjectId": {
     "name": "oMapObject",

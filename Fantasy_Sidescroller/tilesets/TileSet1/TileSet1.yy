@@ -62,8 +62,8 @@
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
-    "name": "Fantasy_Sidescroller",
-    "path": "Fantasy_Sidescroller.yyp",
+    "name": "Level 2",
+    "path": "folders/Level 2.yy",
   },
   "spriteId": {
     "name": "sTileSet",

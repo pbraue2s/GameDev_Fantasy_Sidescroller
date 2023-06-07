@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Fantasy_Sidescroller",
-    "path": "Fantasy_Sidescroller.yyp",
+    "name": "Endboss",
+    "path": "folders/Endboss.yy",
   },
   "parentObjectId": {
     "name": "oPlaceholderCharacter",

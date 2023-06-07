@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Wallpaper",
-    "path": "folders/Level4/Wallpaper.yy",
+    "name": "Level 3",
+    "path": "folders/Level 3.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

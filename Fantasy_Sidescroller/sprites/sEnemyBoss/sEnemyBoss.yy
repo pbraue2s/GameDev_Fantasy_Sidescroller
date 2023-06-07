@@ -31,8 +31,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Fantasy_Sidescroller",
-    "path": "Fantasy_Sidescroller.yyp",
+    "name": "Level 2",
+    "path": "folders/Level 2.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

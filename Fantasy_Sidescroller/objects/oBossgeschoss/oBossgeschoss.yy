@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "BattleSystem",
-    "path": "folders/Level4/BattleSystem.yy",
+    "name": "Level 3",
+    "path": "folders/Level 3.yy",
   },
   "parentObjectId": null,
   "persistent": false,
