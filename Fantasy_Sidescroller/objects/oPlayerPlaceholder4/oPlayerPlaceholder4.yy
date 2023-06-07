@@ -2,7 +2,11 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oPlayerPlaceholder4",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -29,9 +33,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "ccb710d1_bd9b_4aed_96b1_b87e9dccad48",
-    "path": "sprites/ccb710d1_bd9b_4aed_96b1_b87e9dccad48/ccb710d1_bd9b_4aed_96b1_b87e9dccad48.yy",
+    "name": "sChar4",
+    "path": "sprites/sChar4/sChar4.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sChar4",
+    "path": "sprites/sChar4/sChar4.yy",
+  },
   "visible": true,
 }

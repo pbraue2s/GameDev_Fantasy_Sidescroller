@@ -9,7 +9,10 @@
     "name": "MapObjects",
     "path": "folders/Level4/MapObjects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oMapObject",
+    "path": "objects/oMapObject/oMapObject.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
