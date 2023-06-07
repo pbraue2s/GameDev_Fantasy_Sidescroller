@@ -1,4 +1,4 @@
-# Gane Development Projekt SS23
+# Game Development Projekt SS23
 
 Gruppe:     Library of Magic
 Professor:  Haiden
