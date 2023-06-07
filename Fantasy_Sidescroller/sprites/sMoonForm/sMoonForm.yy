@@ -49,8 +49,8 @@
   },
   "origin": 9,
   "parent": {
-    "name": "Charakter",
-    "path": "folders/Level2/Charakter.yy",
+    "name": "Fantasy_Sidescroller",
+    "path": "Fantasy_Sidescroller.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {

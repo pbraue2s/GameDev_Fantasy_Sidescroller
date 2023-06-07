@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Health",
-    "path": "folders/All/PlayerBar/Health.yy",
+    "name": "Fantasy_Sidescroller",
+    "path": "Fantasy_Sidescroller.yyp",
   },
   "parentObjectId": null,
   "persistent": false,

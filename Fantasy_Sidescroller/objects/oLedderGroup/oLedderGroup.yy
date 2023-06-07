@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Ledder",
-    "path": "folders/Bibliothek/MapObjects/Ledder.yy",
+    "name": "Fantasy_Sidescroller",
+    "path": "Fantasy_Sidescroller.yyp",
   },
   "parentObjectId": null,
   "persistent": false,

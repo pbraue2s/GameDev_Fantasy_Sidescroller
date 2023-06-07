@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level3",
-    "path": "folders/Bibliothek/MapObjects/Books/Level3.yy",
+    "name": "Fantasy_Sidescroller",
+    "path": "Fantasy_Sidescroller.yyp",
   },
   "parentObjectId": {
     "name": "oInteract",

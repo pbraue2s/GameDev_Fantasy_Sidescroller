@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MapObjectParents",
-    "path": "folders/All/MapObjectParents.yy",
+    "name": "Fantasy_Sidescroller",
+    "path": "Fantasy_Sidescroller.yyp",
   },
   "parentObjectId": null,
   "persistent": false,

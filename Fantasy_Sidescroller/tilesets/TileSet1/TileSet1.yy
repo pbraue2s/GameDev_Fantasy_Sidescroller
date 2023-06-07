@@ -62,8 +62,8 @@
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
-    "name": "MapObjects",
-    "path": "folders/Level2/MapObjects.yy",
+    "name": "Fantasy_Sidescroller",
+    "path": "Fantasy_Sidescroller.yyp",
   },
   "spriteId": {
     "name": "sTileSet",

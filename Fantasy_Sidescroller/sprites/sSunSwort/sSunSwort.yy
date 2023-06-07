@@ -27,8 +27,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "BattleSystem",
-    "path": "folders/Level2/BattleSystem.yy",
+    "name": "Fantasy_Sidescroller",
+    "path": "Fantasy_Sidescroller.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {

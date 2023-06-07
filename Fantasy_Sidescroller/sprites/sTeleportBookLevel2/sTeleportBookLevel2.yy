@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Level2",
-    "path": "folders/Bibliothek/MapObjects/Books/Level2.yy",
+    "name": "Fantasy_Sidescroller",
+    "path": "Fantasy_Sidescroller.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {

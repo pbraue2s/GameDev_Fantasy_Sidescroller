@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "MapObjects",
-    "path": "folders/Level2/MapObjects.yy",
+    "name": "Fantasy_Sidescroller",
+    "path": "Fantasy_Sidescroller.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {
