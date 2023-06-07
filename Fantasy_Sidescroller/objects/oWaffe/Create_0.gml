@@ -1,0 +1,2 @@
+/// @erstellen
+firingdelay = 0;

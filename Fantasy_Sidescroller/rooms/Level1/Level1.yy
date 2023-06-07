@@ -1189,8 +1189,8 @@
       ],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "parent": {
-    "name": "Fantasy_Sidescroller",
-    "path": "Fantasy_Sidescroller.yyp",
+    "name": "Level 1",
+    "path": "folders/Level 1.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

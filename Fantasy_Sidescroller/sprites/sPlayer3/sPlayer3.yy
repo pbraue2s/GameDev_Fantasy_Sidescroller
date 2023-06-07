@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Fantasy_Sidescroller",
-    "path": "Fantasy_Sidescroller.yyp",
+    "name": "Endboss",
+    "path": "folders/Endboss.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

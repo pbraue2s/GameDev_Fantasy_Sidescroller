@@ -2,12 +2,16 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oPlayerPlaceholder4",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Fantasy_Sidescroller",
-    "path": "Fantasy_Sidescroller.yyp",
+    "name": "Level 3",
+    "path": "folders/Level 3.yy",
   },
   "parentObjectId": {
     "name": "oPlaceholderCharacter",
@@ -29,9 +33,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlayer4",
-    "path": "sprites/sPlayer4/sPlayer4.yy",
+    "name": "sChar4",
+    "path": "sprites/sChar4/sChar4.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sChar4",
+    "path": "sprites/sChar4/sChar4.yy",
+  },
   "visible": true,
 }
