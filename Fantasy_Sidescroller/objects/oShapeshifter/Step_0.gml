@@ -57,6 +57,16 @@ if(place_meeting(x,y,oOutOfMapRSP3)){
 	y = 2521;
 }
 
+var stormDmgIncome;
+with(oBossStorm){
+	stormDmgIncome = doesDmg;
+}
+
+if(place_meeting(x,y,oBossStorm) and dmgIncomeDelay == 0 and stormDmgIncome = 1){
+	health--;
+	dmgIncomeDelay = maxDmgIncomeDelay;
+}
+
 if(place_meeting(x,y,oEnemy) and dmgIncomeDelay == 0){
 	health--;
 	dmgIncomeDelay = maxDmgIncomeDelay;
