@@ -69,14 +69,14 @@ if(dmgIncomeDelay > 0){
  //   dmgIncomeDelay = 20;
 
 //}
-//if(place_meeting(x,y,oFireball) and dmgIncomeDelay == 0){
-//	  image_index = 1;
-//	 instance_create_layer(x,y , "Fireball",oExplosion );
-//	instance_destroy(oFireball);
-    //enemyMaxHealth--;
-  //  dmgIncomeDelay = 20;
+if(place_meeting(x,y,oFireball) and dmgIncomeDelay == 0){
+	  image_index = 1;
+	 instance_create_layer(x,y , "Fireball",oExplosion );
+	instance_destroy(oFireball);
+    enemyMaxHealth--;
+    dmgIncomeDelay = 20;
 
-//}
+}
 if(place_meeting(x,y,oSword) and (dmgIncomeDelay == 0 )and (mouse_check_button(mb_left))){
 	 
 	 
@@ -101,7 +101,7 @@ x += movementSpeed;
 if (canShoot) {
   // Create a new Fireball instance
 
-var fireball = instance_create_layer(oEnemySmall.x,oEnemySmall.y, "Fireball", oFireball2);
+var fireball = instance_create_layer(x,y, "Fireball", oFireball2);
  fireball.speed=8;
  if(image_xscale > 0){
 	 fireball.direction = 0; // rechts angegeben in Grad

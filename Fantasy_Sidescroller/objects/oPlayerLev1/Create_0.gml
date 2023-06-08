@@ -11,3 +11,4 @@ FireDelay = 0;
 dmgIncomeDelay = 0;
 
 weapon = instance_create_layer(x,y,"Fireball",oSword)
+weaponTyp= 0;

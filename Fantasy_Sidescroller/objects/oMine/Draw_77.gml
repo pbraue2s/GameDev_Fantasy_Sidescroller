@@ -4,3 +4,7 @@ if(place_meeting(x,y,oPlayerLev1)){
     instance_create_layer(x,y, "Fireball", oExplosion1);
     instance_destroy();
 }
+if(place_meeting(x,y,oFireball)){
+    instance_create_layer(x,y, "Fireball", oExplosion1);
+    instance_destroy();
+}

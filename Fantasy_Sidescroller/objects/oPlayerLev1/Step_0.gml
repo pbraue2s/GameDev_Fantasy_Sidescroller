@@ -27,7 +27,7 @@ with(oSword){
 
 }
 
-if(mouse_check_button(mb_left) and weaponDelay == 0){
+if(mouse_check_button(mb_left) and weaponTyp ==0 and weaponDelay == 0){
     with(oSword){
         image_index = 1;
     }
@@ -39,12 +39,22 @@ if(swingTime != 0)swingTime--;
 
 
 
-if(mouse_check_button(mb_left) and weaponDelay == 0 ){
-    with(oWeapon){
-      with(instance_create_layer(x, y, "Fireball", oFireball)){
+if(mouse_check_button(mb_left) and weaponTyp==1 and weaponDelay == 0 ){
+   if(image_xscale == 1){
+   with(oWeapon){	
+      with(instance_create_layer(x-40, y-20, "Fireball", oFireball)){
         speed = 15;
         direction = point_direction(x, y, mouse_x, mouse_y);
     }
 }
+   }else{
+   
+   with(oWeapon){	
+      with(instance_create_layer(x, y-20, "Fireball", oFireball)){
+        speed = 15;
+        direction = point_direction(x, y, mouse_x, mouse_y);
+    }
+   }
+   }
     weaponDelay = 20;
 }
