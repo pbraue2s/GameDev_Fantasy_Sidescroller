@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oGam1",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":77,"eventType":8,"isDnD":false,},
-  ],
+  "name": "oShield",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sGams1",
-    "path": "sprites/sGams1/sGams1.yy",
+    "name": "sShield",
+    "path": "sprites/sShield/sShield.yy",
   },
   "spriteMaskId": null,
   "visible": true,

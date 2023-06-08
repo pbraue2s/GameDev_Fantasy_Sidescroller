@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 1",
-    "path": "folders/Level 1.yy",
+    "name": "Weapon",
+    "path": "folders/Level 1/Weapon.yy",
   },
   "parentObjectId": null,
   "persistent": false,

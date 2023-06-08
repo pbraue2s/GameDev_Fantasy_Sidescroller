@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Level 1",
-    "path": "folders/Level 1.yy",
+    "name": "Hero",
+    "path": "folders/Level 1/Hero.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -8,3 +8,17 @@ if(image_xscale > 0){
 }
 
 weapon.image_xscale = image_xscale;
+if(ShieldB ==true){
+	
+
+
+
+shield.y = y + shieldYoffset;
+if(image_xscale > 0){
+    shield.x = x + shieldXoffset;
+}else{
+    shield.x = x - shieldXoffset;
+}
+
+shield.image_xscale = image_xscale;
+}
