@@ -29,14 +29,9 @@ vsp = vsp + currentGrv;
 if(place_meeting(x, y+1, oMapObject)) && ((keySpace)||(keyUp)){
 	vsp = -10;
 }
-// ledder
-if(place_meeting(x, y, oLedderGroup)){
-	currentGrv = 0;
-	vsp = climb * climbsp;
-}else{
-	currentGrv = mapGrv;
-	vsp += currentGrv;
-}
+
+currentGrv = mapGrv;
+vsp += currentGrv;
 
 
 //facing direction
