@@ -2,7 +2,6 @@
 
 // Inherit the parent event
 event_inherited();
-
 // Hearths
 if(health == 3){
 	oHearts.image_index = 0;

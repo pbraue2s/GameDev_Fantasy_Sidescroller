@@ -1,5 +1,4 @@
 /// @description Movement
-
 keyLeft = keyboard_check(vk_left);
 if(keyLeft == 0) keyLeft = keyboard_check(ord("A"));
 keyRight = keyboard_check(vk_right);
@@ -27,14 +26,8 @@ vsp = vsp + currentGrv;
 if(place_meeting(x, y+1, oMapObject)) && ((keySpace)||(keyUp)){
 	vsp = -10;
 }
-// ledder
-if(place_meeting(x, y, oLedderGroup)){
-	currentGrv = 0;
-	vsp = climb * climbsp;
-}else{
-	currentGrv = mapGrv;
-	vsp += currentGrv;
-}
+currentGrv = mapGrv;
+vsp += currentGrv;
 
 
 //facing direction

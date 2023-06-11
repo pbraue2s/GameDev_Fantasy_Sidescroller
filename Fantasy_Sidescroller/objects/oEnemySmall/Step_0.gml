@@ -36,7 +36,7 @@ if (deathcounter > 0) {
 }
 
 if (lastFrameDelay > 0) {
-  image_index = 2; // Hier sollten Sie den Index des letzten Frames einsetzen
+  image_index = 2; 
   image_index = 3;
   
  lastFrameDelay--;

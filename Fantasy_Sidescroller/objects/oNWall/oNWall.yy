@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 1",
-    "path": "folders/Level 1.yy",
+    "name": "Bloecke",
+    "path": "folders/Level 1/Bloecke.yy",
   },
   "parentObjectId": null,
   "persistent": false,

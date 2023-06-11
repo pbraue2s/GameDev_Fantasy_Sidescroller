@@ -4,7 +4,7 @@
 // Inherit the parent event
 
 
-enemyMaxHealth = 5;
+enemyMaxHealth = 2;
 dmgIncomeDelay = 0;
 movementSpeed = 2;
 deathcounter = 0;
