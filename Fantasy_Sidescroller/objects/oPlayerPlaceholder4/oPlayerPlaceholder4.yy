@@ -14,8 +14,8 @@
     "path": "folders/Level 3.yy",
   },
   "parentObjectId": {
-    "name": "oPlaceholderCharacter",
-    "path": "objects/oPlaceholderCharacter/oPlaceholderCharacter.yy",
+    "name": "oLevelCharacter",
+    "path": "objects/oLevelCharacter/oLevelCharacter.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

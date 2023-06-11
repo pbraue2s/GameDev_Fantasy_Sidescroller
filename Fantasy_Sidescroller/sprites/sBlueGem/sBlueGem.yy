@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sBlueGem",
-  "bbox_bottom": 5,
+  "bbox_bottom": 7,
   "bbox_left": 0,
-  "bbox_right": 4,
+  "bbox_right": 6,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6d5ed237-65c6-4b0d-9fd8-e2c7e0792e60",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9fdd044a-c545-4834-9cc3-8bf2df2896fd",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 6,
+  "height": 8,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3759dd61-2676-449c-a3e9-98105a3c0b39","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7a61185a-7cd2-4289-a2b6-8cea1f8162e2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6d5ed237-65c6-4b0d-9fd8-e2c7e0792e60","path":"sprites/sBlueGem/sBlueGem.yy",},},},"Disabled":false,"id":"8d7ddca1-7286-40c9-a235-76efbd7a08fe","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9fdd044a-c545-4834-9cc3-8bf2df2896fd","path":"sprites/sBlueGem/sBlueGem.yy",},},},"Disabled":false,"id":"786da418-9b2b-4d4e-ab50-3630f3afb339","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 5,
+  "width": 7,
 }
