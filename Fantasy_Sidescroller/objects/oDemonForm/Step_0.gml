@@ -1,6 +1,5 @@
 // Inherit the parent event
 event_inherited();
-
 // catching moon from MoonForm
 if(moonCatched == 0){
 	with(oMoon){

@@ -1,6 +1,5 @@
 /// @description Hier Beschreibung einfügen
 // Sie können Ihren Code in diesem Editor schreiben
-
 if(dmgIncomeDelay > 0){
 	dmgIncomeDelay--;
 }

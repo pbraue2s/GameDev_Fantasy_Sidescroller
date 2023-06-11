@@ -13,7 +13,7 @@ if(place_meeting(x, y, oPlayerLev1)){
 	instance_create_layer(5408,1568 ,"Nicht_Sichtbar",oEndWall)
 	instance_create_layer(5440,1568,"Nicht_Sichtbar",oEndWall)
 	
-	
+	global.greenGem = 1;
 	
 	
 	

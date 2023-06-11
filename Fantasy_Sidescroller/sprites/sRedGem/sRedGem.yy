@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sRedGem",
-  "bbox_bottom": 5,
+  "bbox_bottom": 7,
   "bbox_left": 0,
-  "bbox_right": 4,
+  "bbox_right": 6,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6d5ed237-65c6-4b0d-9fd8-e2c7e0792e60",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7603018d-19af-4757-91a0-4ddeaf64d917",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 6,
+  "height": 8,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3759dd61-2676-449c-a3e9-98105a3c0b39","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1b350a20-10d9-46db-be82-534d926a6d57","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6d5ed237-65c6-4b0d-9fd8-e2c7e0792e60","path":"sprites/sRedGem/sRedGem.yy",},},},"Disabled":false,"id":"6528b239-73fb-457e-be1e-b5f61784583d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7603018d-19af-4757-91a0-4ddeaf64d917","path":"sprites/sRedGem/sRedGem.yy",},},},"Disabled":false,"id":"53aa7958-a8ae-452f-b81d-cee0f3dfc04b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 5,
+  "width": 7,
 }
