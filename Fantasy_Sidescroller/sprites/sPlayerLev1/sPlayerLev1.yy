@@ -48,8 +48,8 @@
   },
   "origin": 4,
   "parent": {
-    "name": "Level 1",
-    "path": "folders/Level 1.yy",
+    "name": "Hero",
+    "path": "folders/Level 1/Hero.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -70,7 +70,7 @@
     "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
-    "playbackSpeed": 15.0,
+    "playbackSpeed": 0.0,
     "playbackSpeedType": 0,
     "showBackdrop": true,
     "showBackdropImage": false,

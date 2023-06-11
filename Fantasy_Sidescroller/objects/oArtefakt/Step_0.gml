@@ -7,18 +7,18 @@ if(global.blueGem == 1 and global.redGem == 1 and global.greenGem == 1){
 
 if(global.blueGem == 1){
 	if(!instance_exists(oBlueGem)){
-		instance_create_layer(1010, 918,"Walls", oBlueGem)
+		instance_create_layer(1033, 642,"PrimaryElements", oBlueGem)
 	}
 }
 
 if(global.redGem == 1){
 	if(!instance_exists(oRedGem)){
-		instance_create_layer(1022, 918,"Walls", oRedGem)
+		instance_create_layer(1011, 642,"PrimaryElements", oRedGem)
 	}
 }
 
 if(global.greenGem == 1){
 	if(!instance_exists(oGreenGem)){
-		instance_create_layer(1034, 918,"Walls", oGreenGem)
+		instance_create_layer(1022, 644,"PrimaryElements", oGreenGem)
 	}
 }
