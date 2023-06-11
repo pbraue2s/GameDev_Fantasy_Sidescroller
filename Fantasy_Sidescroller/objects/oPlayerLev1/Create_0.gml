@@ -17,3 +17,5 @@ weapon = instance_create_layer(x,y,"Fireball",oSword)
 shield =0;
 weaponTyp= 0;
 ShieldB= false;
+bossHealthOffsetX = -250;
+bossHealthOffsetY = -350;

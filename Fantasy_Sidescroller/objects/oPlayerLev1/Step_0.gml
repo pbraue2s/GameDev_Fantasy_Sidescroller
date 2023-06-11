@@ -59,3 +59,12 @@ if (mouse_check_button(mb_left) and weaponTyp == 1 and weaponDelay == 0) { // Ch
     weaponDelay = 20; // Set weaponDelay to 20
 }
 }
+if(place_meeting(x,y,ohiddenBlock)){
+	instance_destroy(ohiddenBlock);
+	instance_create_layer(5024,1216, "Player",oEndboss)
+	instance_create_layer(5024, 0, "Player",oBossHealthBarLev1)
+	instance_create_layer(5024, 0, "Player",oBossHealthBarBorderLev1)
+	instance_create_layer(5456,1552, "Player",oCloseDoor)
+	
+	
+	}
