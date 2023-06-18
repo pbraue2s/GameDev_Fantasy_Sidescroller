@@ -99,6 +99,7 @@
     {"name":"Spawn","order":47,"path":"sprites/Spawn/Spawn.yy",},
     {"name":"Sprite57","order":46,"path":"sprites/Sprite57/Sprite57.yy",},
     {"name":"oCareText","order":56,"path":"objects/oCareText/oCareText.yy",},
+    {"name":"mOpenDoor","order":19,"path":"sounds/mOpenDoor/mOpenDoor.yy",},
     {"name":"oBosswaffe","order":45,"path":"objects/oBosswaffe/oBosswaffe.yy",},
     {"name":"Sprite43","order":44,"path":"sprites/Sprite43/Sprite43.yy",},
     {"name":"sChar4","order":43,"path":"sprites/sChar4/sChar4.yy",},

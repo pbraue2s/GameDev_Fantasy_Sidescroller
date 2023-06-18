@@ -129,6 +129,7 @@
     {"id":{"name":"Spawn","path":"sprites/Spawn/Spawn.yy",},},
     {"id":{"name":"Sprite57","path":"sprites/Sprite57/Sprite57.yy",},},
     {"id":{"name":"oCareText","path":"objects/oCareText/oCareText.yy",},},
+    {"id":{"name":"mOpenDoor","path":"sounds/mOpenDoor/mOpenDoor.yy",},},
     {"id":{"name":"oBosswaffe","path":"objects/oBosswaffe/oBosswaffe.yy",},},
     {"id":{"name":"Sprite43","path":"sprites/Sprite43/Sprite43.yy",},},
     {"id":{"name":"sChar4","path":"sprites/sChar4/sChar4.yy",},},
