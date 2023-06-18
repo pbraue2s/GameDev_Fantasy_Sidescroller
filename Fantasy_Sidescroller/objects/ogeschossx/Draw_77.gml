@@ -1,5 +1,9 @@
 /// @zeichnen
-if (place_meeting(x,y,oMapObject)) instance_destroy();
+if (place_meeting(x,y,oMapObject)) 
+{
+instance_destroy();
+audio_play_sound(waffetreffer,2,false);
+}
 if (place_meeting(x,y,oPlayerPlaceholder4))
 {
 	instance_destroy();
@@ -7,4 +11,5 @@ if (place_meeting(x,y,oPlayerPlaceholder4))
 	{
 	health = health -1;
 	}
+	audio_play_sound(waffetreffer,2,false);
 }
