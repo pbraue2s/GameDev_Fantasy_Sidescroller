@@ -3,6 +3,7 @@ event_inherited();
 if(mouse_check_button(mb_left)) && (moonCatched = 1){
 	moonCatched = 0;
 	with(instance_create_layer(x, y-10, "Projectiles", oMoon)){
+		audio_play_sound(mKnife,10,false);
 		speed = 35;
 		direction = point_direction(x, y, mouse_x, mouse_y);
 	}
