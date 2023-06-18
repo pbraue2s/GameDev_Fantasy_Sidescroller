@@ -5,13 +5,11 @@
 /// @description add animation
 
 // Inherit the parent event
-
-
-    event_inherited();
+event_inherited();
 
 
 // Animation
-if (place_meeting(x, y + 1, oErde)) { // Check for collision with oErde (ground) in the next vertical position
+if (place_meeting(x, y + 1, oMapObject)) { // Check for collision with oErde (ground) in the next vertical position
     image_speed = 1; // Set the animation speed to 1
     if (hsp == 0) { // Check if the horizontal speed (hsp) is 0
         sprite_index = sPlayerLev1; // Set the sprite of the game character to sPlayerLev1 (animation)
@@ -27,17 +25,15 @@ with (oSword) {
     }
 }
 
-if (place_meeting(x, y + 1, oErde)) { // Check for collision with oErde (ground) in the next vertical position
-    if (mouse_check_button(mb_left) and weaponTyp == 0 and weaponDelay == 0) { // Check if the left mouse button is pressed and weaponTyp is 0 and weaponDelay is 0
-        with (oSword) {
-            image_index = 1; // Set the image index of the sword to 1 (animation)
-        }
-        swingTime = 5; // Set swingTime to 5
-        weaponDelay = 20; // Set weaponDelay to 20
+if (mouse_check_button(mb_left) and weaponTyp == 0 and weaponDelay == 0) { // Check if the left mouse button is pressed and weaponTyp is 0 and weaponDelay is 0
+    with (oSword) {
+        image_index = 1; // Set the image index of the sword to 1 (animation)
     }
-    if (weaponDelay != 0) weaponDelay--; // Decrease weaponDelay if it's not 0
-    if (swingTime != 0) swingTime--; // Decrease swingTime if it's not 0
+    swingTime = 5; // Set swingTime to 5
+    weaponDelay = 20; // Set weaponDelay to 20
 }
+if (weaponDelay != 0) weaponDelay--; // Decrease weaponDelay if it's not 0
+if (swingTime != 0) swingTime--; // Decrease swingTime if it's not 0
 
 if(!mouse_check_button(mb_right)){
 if (mouse_check_button(mb_left) and weaponTyp == 1 and weaponDelay == 0) { // Check if the left mouse button is pressed and weaponTyp is 1 and weaponDelay is 0

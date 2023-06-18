@@ -9,7 +9,6 @@
   "instanceCreationOrder": [
     {"name":"inst_5C6684CF_1","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_62117D63_1","path":"rooms/Level2/Level2.yy",},
-    {"name":"inst_676F14","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_36526413","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_7C78A820","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_1A90778B","path":"rooms/Level2/Level2.yy",},
@@ -2734,6 +2733,7 @@
     {"name":"inst_20C9ECC8","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_431E7135","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_7832B9BA","path":"rooms/Level2/Level2.yy",},
+    {"name":"inst_714F1596","path":"rooms/Level2/Level2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -2745,7 +2745,6 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Player","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5C6684CF_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":2432.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_62117D63_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oHearts","path":"objects/oHearts/oHearts.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_676F14","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oMoonForm","path":"objects/oMoonForm/oMoonForm.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":2464.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_36526413","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oEnemyMax","path":"objects/oEnemyMax/oEnemyMax.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1443.0,"y":2483.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7A5D8464","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oEnemyMax","path":"objects/oEnemyMax/oEnemyMax.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1606.0,"y":1106.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3F9F1E75","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oEnemyMax","path":"objects/oEnemyMax/oEnemyMax.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2009.0,"y":1106.0,},
@@ -2757,6 +2756,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_20C9ECC8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oEnemyMax","path":"objects/oEnemyMax/oEnemyMax.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":10304.0,"y":2528.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_431E7135","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oEnemyMax","path":"objects/oEnemyMax/oEnemyMax.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":10784.0,"y":2144.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7832B9BA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oEnemyMax","path":"objects/oEnemyMax/oEnemyMax.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":10976.0,"y":1536.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_714F1596","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oMoonForm","path":"objects/oMoonForm/oMoonForm.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":12896.0,"y":1920.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"HiddenBlocks","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7C78A820","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oEndBlock","path":"objects/oEndBlock/oEndBlock.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-64.0,"y":3000.0,},

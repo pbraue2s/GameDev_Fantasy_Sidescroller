@@ -1,3 +1,3 @@
-if(collision_circle(x, y, radius, oCharacter, false, true)){
+/*if(collision_circle(x, y, radius, oCharacter, false, true)){
 	room_goto(Level3)
-}
+}*/
