@@ -42,7 +42,7 @@ if (lastFrameDelay > 0) {
  lastFrameDelay--;
   if (lastFrameDelay == 0) {
 	  image_index = 3;
-	 
+	 audio_play_sound(mEnDeath,10,false);
     instance_destroy();
   }
 }
