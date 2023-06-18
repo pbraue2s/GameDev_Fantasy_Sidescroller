@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 1,
   "conversionMode": 0,
-  "duration": 16.845488,
+  "duration": 218.064,
   "parent": {
     "name": "Sound",
     "path": "folders/Level 1/Sound.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "mlev1Song.wav",
+  "soundFile": "mlev1Song.mp3",
   "type": 0,
-  "volume": 0.43,
+  "volume": 0.07,
 }

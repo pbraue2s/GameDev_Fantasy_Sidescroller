@@ -73,13 +73,14 @@ if(place_meeting(x,y,oFireball) and dmgIncomeDelay == 0){
 	  image_index = 1;
 	 instance_create_layer(x,y , "Fireball",oExplosion );
 	instance_destroy(oFireball);
+	audio_play_sound(mHit,10,false);
     enemyMaxHealth--;
     dmgIncomeDelay = 20;
 
 }
 if(place_meeting(x,y,oSword) and (dmgIncomeDelay == 0 )and (mouse_check_button(mb_left))){
 	 
-	 
+	 audio_play_sound(mHit,10,false);
     enemyMaxHealth--;
     dmgIncomeDelay = 20;
 
