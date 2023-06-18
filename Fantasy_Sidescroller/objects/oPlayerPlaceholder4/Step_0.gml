@@ -28,6 +28,9 @@ vsp = vsp + currentGrv;
 // jumping
 if(place_meeting(x, y+1, oMapObject)) && ((keySpace)||(keyUp)){
 	vsp = -10;
+
+	audio_play_sound(sprung,1,false);
+
 }
 
 currentGrv = mapGrv;

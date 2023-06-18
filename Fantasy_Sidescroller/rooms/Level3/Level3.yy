@@ -143,6 +143,7 @@
     {"name":"inst_356E98B","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_5473A60A","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_1051085B","path":"rooms/Level3/Level3.yy",},
+    {"name":"inst_601C814","path":"rooms/Level3/Level3.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -294,6 +295,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_65877FF9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oenemyy","path":"objects/oenemyy/oenemyy.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1312.0,"y":4112.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_356E98B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"formel6","path":"objects/formel6/formel6.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":2.5,"x":4224.0,"y":3152.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5473A60A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"recheck","path":"objects/recheck/recheck.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3680.9854,"y":2960.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_601C814","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"musik33","path":"objects/musik33/musik33.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2272.0,"y":3936.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"sl_072622_51930_13","path":"sprites/sl_072622_51930_13/sl_072622_51930_13.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Fireball","depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
