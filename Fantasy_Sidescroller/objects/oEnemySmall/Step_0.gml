@@ -42,6 +42,7 @@ if (lastFrameDelay > 0) {
  lastFrameDelay--;
   if (lastFrameDelay == 0) {
 	  image_index = 4;
+	audio_play_sound(mEnDeath,10,false);
     instance_destroy();
   }
 }
@@ -73,12 +74,14 @@ if(place_meeting(x,y,oFireball) and dmgIncomeDelay == 0){
 	  image_index = 1;
 	 instance_create_layer(x,y , "Fireball",oExplosion );
 	instance_destroy(oFireball);
+	audio_play_sound(mHit,10,false);
     enemyMaxHealth--;
     dmgIncomeDelay = 20;
 
 }
 if(place_meeting(x,y,oSword) and (dmgIncomeDelay == 0 )and (mouse_check_button(mb_left))){
 	 
+	 audio_play_sound(mHit,10,false);
 	 
     enemyMaxHealth--;
     dmgIncomeDelay = 20;
@@ -89,7 +92,8 @@ if(place_meeting(x,y,oSword) and (dmgIncomeDelay == 0 )and (mouse_check_button(m
 
 if(place_meeting(x+movementSpeed, y, oMapObject)){
     while(!place_meeting(x+sign(movementSpeed), y, oMapObject) and place_meeting(x+sign(movementSpeed), y, oEnemySmall)){
-        x += sign(movementSpeed);
+        
+		x += sign(movementSpeed);
     }
     movementSpeed = movementSpeed * -1;
 }
