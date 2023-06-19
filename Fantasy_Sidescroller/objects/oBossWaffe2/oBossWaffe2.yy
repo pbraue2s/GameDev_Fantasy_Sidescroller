@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oFinalBoss",
+  "name": "oBossWaffe2",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":false,},
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sFinalBoss",
-    "path": "sprites/sFinalBoss/sFinalBoss.yy",
+    "name": "sBossWaffe2",
+    "path": "sprites/sBossWaffe2/sBossWaffe2.yy",
   },
   "spriteMaskId": null,
   "visible": true,
