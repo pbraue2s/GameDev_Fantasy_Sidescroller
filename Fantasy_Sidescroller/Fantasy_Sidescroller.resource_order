@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings": [
+    {"name":"Sound","order":45,"path":"folders/Bibliothek/Sound.yy",},
     {"name":"Bloecke","order":3,"path":"folders/Level 1/Bloecke.yy",},
     {"name":"Damage","order":5,"path":"folders/Level 1/Damage.yy",},
     {"name":"Hero","order":1,"path":"folders/Level 1/Hero.yy",},
@@ -7,7 +8,6 @@
     {"name":"Sound","order":6,"path":"folders/Level 1/Sound.yy",},
     {"name":"Weapon","order":4,"path":"folders/Level 1/Weapon.yy",},
     {"name":"Sounds","order":59,"path":"folders/Level 2/Sounds.yy",},
-    {"name":"Sound","order":45,"path":"folders/Bibliothek/Sound.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oLevel1StartBook","order":39,"path":"objects/oLevel1StartBook/oLevel1StartBook.yy",},
@@ -54,6 +54,7 @@
     {"name":"mBossShoot","order":9,"path":"sounds/mBossShoot/mBossShoot.yy",},
     {"name":"sFinalBossAttack","order":6,"path":"sprites/sFinalBossAttack/sFinalBossAttack.yy",},
     {"name":"Sprite47","order":55,"path":"sprites/Sprite47/Sprite47.yy",},
+    {"name":"sTileSet","order":60,"path":"sprites/sTileSet/sTileSet.yy",},
     {"name":"oTeleportBookLevel2","order":26,"path":"objects/oTeleportBookLevel2/oTeleportBookLevel2.yy",},
     {"name":"sSpike","order":7,"path":"sprites/sSpike/sSpike.yy",},
     {"name":"sCloseDoor","order":10,"path":"sprites/sCloseDoor/sCloseDoor.yy",},
@@ -294,6 +295,5 @@
     {"name":"music","order":1,"path":"objects/music/music.yy",},
     {"name":"sChair","order":38,"path":"sprites/sChair/sChair.yy",},
     {"name":"sSunForm","order":2,"path":"sprites/sSunForm/sSunForm.yy",},
-    {"name":"sTileSet","order":1,"path":"sprites/sTileSet/sTileSet.yy",},
   ],
 }

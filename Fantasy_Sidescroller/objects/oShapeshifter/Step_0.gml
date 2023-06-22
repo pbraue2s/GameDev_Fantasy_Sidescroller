@@ -7,8 +7,8 @@ if(place_meeting(x,y,oEndBossTrigger)){
 	audio_play_sound(mBossFight1,10,true)
 	audio_stop_sound(mLev2);
 	instance_create_layer(13856, 1824, "Player",oEnemyBoss)
-	instance_create_layer(13856, 0, "Player",oBossHealthBar)
-	instance_create_layer(13856, 0, "Player",oBossHealthBarBorder)
+	instance_create_layer(13856, 0, "Projectiles",oBossHealthBar)
+	instance_create_layer(13856, 0, "Projectiles",oBossHealthBarBorder)
 
 
 	instance_create_layer(13120, 1760, "Walls",oBossDoor)
