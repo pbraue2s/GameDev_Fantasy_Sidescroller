@@ -4,21 +4,11 @@ if(eventCounter <= 0){
 		stormAttack = 2;
 	}
 	instance_destroy();
-}else if(eventCounter<= 500){
-	image_index = 2
+}if(eventCounter == 500){
+	sprite_index = sStorm;
+	image_xscale = 8;
+	image_yscale = 8;
+	sprite_set_speed(sStorm, 4, spritespeed_framespersecond);
 	doesDmg = 1;
-}else if(eventCounter>950){
-	image_index = 1;
-}else if(eventCounter>850 and eventCounter<900){
-	image_index = 1;
-}else if(eventCounter>750 and eventCounter<800){
-	image_index = 1;
-}else if(eventCounter>650 and eventCounter<700){
-	image_index = 1;
-}else if(eventCounter>550 and eventCounter<600){
-	image_index = 1;
-}else{
-	image_index = 0
 }
-
 eventCounter--;

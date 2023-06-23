@@ -21,3 +21,28 @@ if(moonCatched == 0){
 		}
 	}
 }
+//run animation
+if (place_meeting(x, y + 1, oMapObject)) {
+    image_speed = 1;
+    if (hsp == 0) {
+        sprite_index = sMoonForm;
+    } else {
+        sprite_index = sMoonFormRun; 
+    }
+}
+// jump animation
+if (vsp < 0) {
+    if(sprite_index == sMoonForm or sprite_index == sMoonFormRun){
+		sprite_index = sMoonFormJump;
+		image_index = 0;
+	}else if(sprite_index == sMoonFormJump and image_index == 0){
+		image_index = 1;
+	}else if(sprite_index == sMoonFormJump and image_index == 1){
+		image_index = 2;
+	}
+}else if(vsp > 0){
+	sprite_index = sMoonFormJump;
+	image_index = 3;
+}else if(place_meeting(x, y + 1, oMapObject) and sprite_index == sMoonFormJump){
+	sprite_index = sMoonForm
+}
