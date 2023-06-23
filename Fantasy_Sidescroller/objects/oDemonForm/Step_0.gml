@@ -28,6 +28,7 @@ with(oSunSwort){
 
 if(mouse_check_button(mb_left) and weaponDelay == 0){
 	with(oSunSwort){
+		audio_play_sound(mSword1,10,false);
 		image_index = 1;
 	}
 	swingTime = 5;

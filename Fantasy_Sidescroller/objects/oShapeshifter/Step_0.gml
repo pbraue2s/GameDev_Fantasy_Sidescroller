@@ -4,6 +4,8 @@ event_inherited();
 
 if(place_meeting(x,y,oEndBossTrigger)){
 	instance_destroy(oEndBossTrigger);
+	audio_play_sound(mBossFight1,10,true)
+	audio_stop_sound(mLev2);
 	instance_create_layer(13856, 1824, "Player",oEnemyBoss)
 	instance_create_layer(13856, 0, "Player",oBossHealthBar)
 	instance_create_layer(13856, 0, "Player",oBossHealthBarBorder)
@@ -41,18 +43,21 @@ if(place_meeting(x,y,oGem)){
 }
 
 if(place_meeting(x,y,oOutOfMapRSP1)){
+	audio_play_sound(mHitHero,10,false)
 	health--;
 	x = 1743;
 	y = 2489;
 }
 
 if(place_meeting(x,y,oOutOfMapRSP2)){
+	audio_play_sound(mHitHero,10,false)
 	health--;
 	x = 4234;
 	y = 1113;
 }
 
 if(place_meeting(x,y,oOutOfMapRSP3)){
+	audio_play_sound(mHitHero,10,false)
 	health--;
 	x = 7864;
 	y = 2521;
@@ -64,11 +69,13 @@ with(oBossStorm){
 }
 
 if(place_meeting(x,y,oBossStorm) and dmgIncomeDelay == 0 and stormDmgIncome = 1){
+	audio_play_sound(mHitHero,10,false)
 	health--;
 	dmgIncomeDelay = maxDmgIncomeDelay;
 }
 
 if(place_meeting(x,y,oEnemy) and dmgIncomeDelay == 0){
+	audio_play_sound(mHitHero,10,false)
 	health--;
 	dmgIncomeDelay = maxDmgIncomeDelay;
 }
