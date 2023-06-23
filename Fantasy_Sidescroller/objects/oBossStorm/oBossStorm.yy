@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sBossStorm",
-    "path": "sprites/sBossStorm/sBossStorm.yy",
+    "name": "sStormAlert",
+    "path": "sprites/sStormAlert/sStormAlert.yy",
   },
   "spriteMaskId": null,
   "visible": true,

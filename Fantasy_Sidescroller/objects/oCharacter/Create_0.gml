@@ -5,4 +5,3 @@ mapGrv = 0.3;
 currentGrv = mapGrv;
 walksp = 4;
 csp = 0;
-climbsp = 3;

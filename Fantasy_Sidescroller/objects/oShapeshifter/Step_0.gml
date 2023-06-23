@@ -25,16 +25,12 @@ if(speed > 0){
 	speed--;
 }
 
-if(transform > 0){
-	transform--;	
+if(dmgIncomeDelay>0){
+	dmgIncomeDelay--;
 }
 
-if(dmgIncomeDelay > 0){
-	dmgIncomeDelay--;
-	sprite_set_speed(sprite_index, 10, spritespeed_framespersecond);
-}else{
-	sprite_set_speed(sprite_index, 0, spritespeed_framespersecond);
-	image_index = 0;
+if(transform > 0){
+	transform--;	
 }
 
 if(place_meeting(x,y,oGem)){
@@ -46,21 +42,21 @@ if(place_meeting(x,y,oOutOfMapRSP1)){
 	audio_play_sound(mHitHero,10,false)
 	health--;
 	x = 1743;
-	y = 2489;
+	y = 2474;
 }
 
 if(place_meeting(x,y,oOutOfMapRSP2)){
 	audio_play_sound(mHitHero,10,false)
 	health--;
 	x = 4234;
-	y = 1113;
+	y = 1099;
 }
 
 if(place_meeting(x,y,oOutOfMapRSP3)){
 	audio_play_sound(mHitHero,10,false)
 	health--;
 	x = 7864;
-	y = 2521;
+	y = 2506;
 }
 
 var stormDmgIncome;

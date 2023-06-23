@@ -35,6 +35,31 @@ if(mouse_check_button(mb_left) and weaponDelay == 0){
 	swingTime = 5;
 	weaponDelay = 20;
 }
+//run animation
+if (place_meeting(x, y + 1, oMapObject)) {
+    image_speed = 1;
+    if (hsp == 0) {
+        sprite_index = sSunForm;
+    } else {
+        sprite_index = sSunFormRun; 
+    }
+}
+// jump animation
+if (vsp < 0) {
+    if(sprite_index == sSunForm or sprite_index == sSunFormRun){
+		sprite_index = sSunFormJump;
+		image_index = 0;
+	}else if(sprite_index == sSunFormJump and image_index == 0){
+		image_index = 1;
+	}else if(sprite_index == sSunFormJump and image_index == 1){
+		image_index = 2;
+	}
+}else if(vsp > 0){
+	sprite_index = sSunFormJump;
+	image_index = 3;
+}else if(place_meeting(x, y + 1, oMapObject) and sprite_index == sMoonFormJump){
+	sprite_index = sSunForm
+}
 
 
 

@@ -14,7 +14,11 @@ if(place_meeting(x,y,oSunSwort) and dmgIncomeDelay == 0 and oSunSwort.image_inde
 }
 
 with(oBossHealthBar){
-	image_xscale = other.enemyMaxHealth / 100;
+	if((other.enemyMaxHealth / 100) >= 0){
+		image_xscale = other.enemyMaxHealth / 100;
+	}else{
+		image_xscale = 0;
+	}
 }
 
 if(enemyMaxHealth <= 0){
