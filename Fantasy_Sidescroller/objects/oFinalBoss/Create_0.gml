@@ -1,6 +1,7 @@
 //Atributte
+dmgIncomeDelay=0;
 hp=200;
-max_hp=200;
+
 
 teleportdelay=0;
 teleportzone = 2; 

@@ -21,7 +21,10 @@ if(instance_exists(oLevelCharacter))
 		{
 			countdown = countdownrate;
 			//schusscodde
-		
+			if(owner.hp<100)
+				{
+					countdownrate = countdownrate/2;
+				}
 			with(instance_create_layer(x,y,"Waffe",oEndBossGeschossB))
 			{
 				speed=5;
