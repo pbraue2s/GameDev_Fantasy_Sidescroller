@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oEndBossGeschoss",
+  "name": "oEndBossGeschossG",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":77,"eventType":8,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sEndBossGeschoss",
-    "path": "sprites/sEndBossGeschoss/sEndBossGeschoss.yy",
+    "name": "buchG",
+    "path": "sprites/buchG/buchG.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -22,7 +22,7 @@ if(instance_exists(oLevelCharacter))
 			countdown = countdownrate;
 			//schusscodde
 		
-			with(instance_create_layer(x,y,"Waffe",oEndBossGeschoss))
+			with(instance_create_layer(x,y,"Waffe",oEndBossGeschossG))
 			{
 				speed=12;
 				direction =other.image_angle + random_range(-1,1);

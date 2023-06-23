@@ -1,8 +1,4 @@
 
-//HP Bar
-with(oBossHealthBar){
-	image_xscale = other.enemyMaxHealth / 200;
-}
 // schaden
 if (place_meeting(x,y,oGeschoss4))
 {
@@ -13,8 +9,11 @@ if (place_meeting(x,y,oMoon))
 	hp= hp-1;
 }
 
-// noch Level 1 Schaden einfügen, weiß nicht was seine Geschosse alle Sind
 
+if (place_meeting(x,y,oFireball))
+{
+	hp= hp-1;
+}
 //Bewegung Teleportiert sich zu 3 Stellen und greift von diesen an
 teleportdelay=teleportdelay-1;
 if(teleportdelay<=0)
