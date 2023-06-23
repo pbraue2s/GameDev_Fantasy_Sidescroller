@@ -1,4 +1,3 @@
-
 // schaden
 if(dmgIncomeDelay > 0){
 	dmgIncomeDelay--;
