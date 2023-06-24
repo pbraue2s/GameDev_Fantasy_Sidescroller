@@ -27,7 +27,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d118c9c2-cded-48ae-8948-ed5161fb0877","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 4,
+  "origin": 9,
   "parent": {
     "name": "Endboss",
     "path": "folders/Endboss.yy",
@@ -68,7 +68,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 32,
-    "yorigin": 32,
+    "yorigin": 24,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

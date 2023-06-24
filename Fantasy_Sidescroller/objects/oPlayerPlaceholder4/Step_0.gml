@@ -106,3 +106,8 @@ if(y>4970)
 	y = 4900;
 	health = health-1;
 }
+
+if(place_meeting(x,y,oMathGem)){
+	global.blueGem = 1;
+	room_goto(Bibliothek);
+}
