@@ -32,7 +32,7 @@ if(keyboard_check_pressed(vk_escape)){
 	if(surface_exists(pauseSurf)) surface_free(pauseSurf);
 	if(buffer_exists(pauseSurfBuffer)) buffer_delete(pauseSurfBuffer);
 	}
-}else if(keyboard_check_pressed(ord("E"))){
+}else if(keyboard_check_pressed(ord("E")) and room == Bibliothek){
 	if(!pause  and (
 	collision_circle(oTeleportBookLevel1.x, oTeleportBookLevel1.y, oTeleportBookLevel1.radius, oCharacter, false, true) or
 	collision_circle(oTeleportBookLevel2.x, oTeleportBookLevel2.y, oTeleportBookLevel2.radius, oCharacter, false, true) or 
