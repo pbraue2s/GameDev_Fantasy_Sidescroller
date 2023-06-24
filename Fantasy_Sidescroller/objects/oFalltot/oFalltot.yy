@@ -12,8 +12,8 @@
     "path": "folders/Level 3.yy",
   },
   "parentObjectId": {
-    "name": "oTeleportArea",
-    "path": "objects/oTeleportArea/oTeleportArea.yy",
+    "name": "oMapObject",
+    "path": "objects/oMapObject/oMapObject.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

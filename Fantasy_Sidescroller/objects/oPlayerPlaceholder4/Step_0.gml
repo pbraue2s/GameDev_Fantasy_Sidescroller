@@ -100,3 +100,9 @@ if(place_meeting(x,y,oHWall)){
 	instance_create_layer(1040,1320, "Player",oBossTrigger)
 	
 	}
+if(y>4970)
+{
+	x = 130;
+	y = 4900;
+	health = health-1;
+}

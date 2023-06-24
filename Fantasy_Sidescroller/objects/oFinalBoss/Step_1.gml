@@ -19,10 +19,25 @@ if (place_meeting(x,y,oFireball))
 	hp= hp-1;
 	instance_create_layer(x+100,y+50 , "Fireball",oExplosion );
 	//instance_destroy(oFireball)
+if(dmgIncomeDelay > 0){
+	dmgIncomeDelay--;
 }
 
-// noch Level 1 Schaden einfügen, weiß nicht was seine Geschosse alle Sind
+if(place_meeting(x,y,oGeschoss4) and dmgIncomeDelay == 0){
+	
+	enemyMaxHealth--;
+	dmgIncomeDelay = 20;
+}
+if(place_meeting(x,y,oMoon) and dmgIncomeDelay == 0){
 
+	enemyMaxHealth--;
+	dmgIncomeDelay = 20;
+}
+if(place_meeting(x,y,oFireball) and dmgIncomeDelay == 0){
+
+	enemyMaxHealth--;
+	dmgIncomeDelay = 20;
+}
 //Bewegung Teleportiert sich zu 3 Stellen und greift von diesen an
 teleportdelay=teleportdelay-1;
 if(teleportdelay<=0)

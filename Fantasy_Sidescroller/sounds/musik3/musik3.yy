@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "musik3.mp3",
   "type": 0,
-  "volume": 0.47,
+  "volume": 0.08,
 }
