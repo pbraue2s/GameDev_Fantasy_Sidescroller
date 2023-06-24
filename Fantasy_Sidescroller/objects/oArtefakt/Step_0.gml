@@ -1,6 +1,6 @@
 /// @description Hier Beschreibung einfügen
 // Sie können Ihren Code in diesem Editor schreiben
-if(global.blueGem == 1 and global.redGem == 0 and global.greenGem == 0){
+if(global.blueGem == 1 and global.redGem == 1 and global.greenGem == 1){
 	event_inherited();
 }
 
