@@ -1,8 +1,8 @@
 /// @description Hier Beschreibung einfügen
 // Sie können Ihren Code in diesem Editor schreiben
 /// @besitzer
-x = owner.x+280;
-y = owner.y;
+x = owner.x+90;
+y = owner.y-20;
 
 image_xscale = abs(owner.image_xscale);
 image_yscale = abs(owner.image_yscale);
@@ -19,13 +19,7 @@ if(instance_exists(oLevelCharacter))
 		countdown--;
 		if(countdown<=0)
 		{
-			countdown = countdownrate;
-			//schusscodde
-			if(owner.hp<100)
-			{
-				countdownrate = countdownrate/2;
-			}
-			
+			countdown = countdownrate;	
 			with(instance_create_layer(x,y,"Waffe",oEndBossGeschossG))
 			{
 				speed=12;

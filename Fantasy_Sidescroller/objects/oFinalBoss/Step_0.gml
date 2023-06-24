@@ -1,43 +1,19 @@
+ if(dmgIncomeDelay > 0){
+	dmgIncomeDelay--;
+}
  
 //HP Bar
 with(oEndBossHealthBar){
 	image_xscale = other.hp / 200;
 }
 // schaden
-if (place_meeting(x,y,Geschoss4))
-{
-	hp= hp-1;
-	//instance_destroy(oGeschoss4)
-}
-if (place_meeting(x,y,oMoon))
-{
-	hp= hp-1;
-	
-}
-if (place_meeting(x,y,oFireball))
-{
-	hp= hp-1;
-	instance_create_layer(x+100,y+50 , "Fireball",oExplosion );
-	//instance_destroy(oFireball)
-if(dmgIncomeDelay > 0){
-	dmgIncomeDelay--;
-}
-
-if(place_meeting(x,y,oGeschoss4) and dmgIncomeDelay == 0){
-	
-	enemyMaxHealth--;
-	dmgIncomeDelay = 20;
-}
 if(place_meeting(x,y,oMoon) and dmgIncomeDelay == 0){
-
-	enemyMaxHealth--;
+	hp--;
 	dmgIncomeDelay = 20;
 }
-if(place_meeting(x,y,oFireball) and dmgIncomeDelay == 0){
+// die anderen werden in oFireball und Geschoss4 implementiert
 
-	enemyMaxHealth--;
-	dmgIncomeDelay = 20;
-}
+
 //Bewegung Teleportiert sich zu 3 Stellen und greift von diesen an
 teleportdelay=teleportdelay-1;
 if(teleportdelay<=0)
@@ -82,6 +58,7 @@ if(hp<=0)
 	}
 	instance_destroy(oEndBossHealthBarBorder);
 	instance_destroy(oEndBossHealthBar);
+	audio_stop_all();
+	room_goto(EndRoom);
 	instance_destroy();
-	
 }
