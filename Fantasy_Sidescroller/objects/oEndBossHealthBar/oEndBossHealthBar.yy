@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oFinalBoss",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":false,},
-  ],
+  "name": "oEndBossHealthBar",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sFinalBossAttack",
-    "path": "sprites/sFinalBossAttack/sFinalBossAttack.yy",
+    "name": "sBossHealthBarLev1",
+    "path": "sprites/sBossHealthBarLev1/sBossHealthBarLev1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
