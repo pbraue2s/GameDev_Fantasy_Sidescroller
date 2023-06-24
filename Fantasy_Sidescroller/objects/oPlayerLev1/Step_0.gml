@@ -69,3 +69,10 @@ if(place_meeting(x,y,ohiddenBlock)){
 	
 	
 	}
+	if(place_meeting(x,y,oHWall)){
+	
+	instance_destroy(oHWall);
+	instance_destroy(oSleepBoss);
+	instance_create_layer(1040,1320, "Player",oBossTrigger)
+	
+	}

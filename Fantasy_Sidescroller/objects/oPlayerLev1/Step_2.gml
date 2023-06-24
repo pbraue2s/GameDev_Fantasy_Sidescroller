@@ -28,3 +28,9 @@ if(instance_exists(oBossHealthBarLev1) and instance_exists(oBossHealthBarBorderL
 	oBossHealthBarBorderLev1.x = oCamera.x + bossHealthOffsetX;
 	oBossHealthBarBorderLev1.y = oCamera.y + bossHealthOffsetY;
 }
+if(instance_exists(oEndBossHealthBar) and instance_exists(oEndBossHealthBarBorder)){
+	oEndBossHealthBar.x = oCamera.x + bossHealthOffsetX+3;
+	oEndBossHealthBar.y = oCamera.y + bossHealthOffsetY+3;
+	oEndBossHealthBarBorder.x = oCamera.x + bossHealthOffsetX;
+	oEndBossHealthBarBorder.y = oCamera.y + bossHealthOffsetY;
+}

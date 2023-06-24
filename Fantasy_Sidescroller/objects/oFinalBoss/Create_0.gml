@@ -2,6 +2,11 @@
 hp=200;
 teleportdelay=0;
 teleportzone = 2; 
+
+image_xscale=0.8;
+image_yscale=0.8;
+dmgIncomeDelay = 0;
+
 meinewaffe1 = instance_create_layer(x,y,"Waffe",oBossWaffe3);	
 	with(meinewaffe1)
 	{

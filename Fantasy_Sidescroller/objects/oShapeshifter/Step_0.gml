@@ -20,6 +20,13 @@ if(place_meeting(x,y,oEndBossTrigger)){
 	instance_create_layer(13120, 1760+192, "Walls",oBossDoor)
 	instance_create_layer(13120, 1760+224, "Walls",oBossDoor)
 }
+if(place_meeting(x,y,oHWall)){
+	
+	instance_destroy(oHWall);
+	instance_destroy(oSleepBoss);
+	instance_create_layer(1040,1320, "Player",oBossTrigger)
+	
+	}
 
 if(speed > 0){
 	speed--;
