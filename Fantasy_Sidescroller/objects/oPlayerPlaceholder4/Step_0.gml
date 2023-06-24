@@ -93,3 +93,10 @@ else
 	}
 }
 if(hsp!=0) image_xscale = sign(hsp);
+if(place_meeting(x,y,oHWall)){
+	
+	instance_destroy(oHWall);
+	instance_destroy(oSleepBoss);
+	instance_create_layer(1040,1320, "Player",oBossTrigger)
+	
+	}

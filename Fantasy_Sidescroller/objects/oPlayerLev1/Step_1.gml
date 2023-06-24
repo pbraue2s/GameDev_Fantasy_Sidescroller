@@ -8,10 +8,10 @@ dmgIncomeDelay--;
 
 
 	
-	if(place_meeting(x,y,oExplosion1))  && (mouse_check_button(mb_right)){
+if(place_meeting(x,y,oExplosion1))  && (mouse_check_button(mb_right)){
 	
 	audio_play_sound(mShield,10,false);
-	}
+}
 if(!mouse_check_button(mb_right)){
 	if(place_meeting(x, y, oEnemySmall)) && (dmgIncomeDelay < 0){
 		dmgIncomeDelay = 50;
@@ -28,6 +28,30 @@ if(!mouse_check_button(mb_right)){
 		dmgIncomeDelay = 50;
 		audio_play_sound(mHitHero,10,false);
 		health--;
+	}
+	if(place_meeting(x,y,oEndBossGeschossB))  && (dmgIncomeDelay < 0){
+		dmgIncomeDelay = 50;
+		audio_play_sound(mHitHero,10,false);
+		health--;
+		instance_create_layer(x,y , "Fireball",oExplosion );
+	}
+	if(place_meeting(x,y,oEndBossGeschossG))  && (dmgIncomeDelay < 0){
+		dmgIncomeDelay = 50;
+		audio_play_sound(mHitHero,10,false);
+		health--;
+		instance_create_layer(x,y , "Fireball",oExplosion );
+	}
+	if(place_meeting(x,y,oEndBossGeschossR))  && (dmgIncomeDelay < 0){
+		dmgIncomeDelay = 50;
+		audio_play_sound(mHitHero,10,false);
+		health--;
+		instance_create_layer(x,y , "Fireball",oExplosion );
+	}
+	if(place_meeting(x,y,oEndBossGeschoss))  && (dmgIncomeDelay < 0){
+		dmgIncomeDelay = 50;
+		audio_play_sound(mHitHero,10,false);
+		health--;
+		instance_create_layer(x,y , "Fireball",oExplosion );
 	}
 }
 if(place_meeting(x,y,oNWall)){
