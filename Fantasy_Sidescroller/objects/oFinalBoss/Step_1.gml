@@ -1,4 +1,4 @@
-
+ 
 //HP Bar
 with(oBossHealthBar){
 	image_xscale = other.enemyMaxHealth / 200;
