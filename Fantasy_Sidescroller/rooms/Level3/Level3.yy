@@ -145,6 +145,8 @@
     {"name":"inst_1051085B","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_601C814","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_437B8AD8","path":"rooms/Level3/Level3.yy",},
+    {"name":"inst_725A6041","path":"rooms/Level3/Level3.yy",},
+    {"name":"inst_52A28C96","path":"rooms/Level3/Level3.yy",},
   ],
   "isDnd": false,
   "layers": [

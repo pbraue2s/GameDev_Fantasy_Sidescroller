@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sGem",
-  "bbox_bottom": 55,
-  "bbox_left": 14,
-  "bbox_right": 46,
-  "bbox_top": 8,
+  "bbox_bottom": 228,
+  "bbox_left": 59,
+  "bbox_right": 162,
+  "bbox_top": 122,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d4bc7e3f-9d8a-4e9c-8ec2-3ec7ad3c87ad",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8192956f-bf9f-471e-a3af-2c4e72d546dd",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 229,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"81186bec-c20b-4d27-8ef4-5c32612e8013","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ee56595d-3341-4e17-83f7-b6517503b465","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d4bc7e3f-9d8a-4e9c-8ec2-3ec7ad3c87ad","path":"sprites/sGem/sGem.yy",},},},"Disabled":false,"id":"a3844277-edca-49c5-9f13-0253009b3dbd","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8192956f-bf9f-471e-a3af-2c4e72d546dd","path":"sprites/sGem/sGem.yy",},},},"Disabled":false,"id":"3b0410a2-86bc-4c3e-87aa-750cc0a60299","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 212,
 }
