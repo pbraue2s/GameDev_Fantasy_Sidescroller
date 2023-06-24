@@ -93,3 +93,10 @@ else
 	}
 }
 if(hsp!=0) image_xscale = sign(hsp);
+
+if(y>4970)
+{
+	x = 130;
+	y = 4900;
+	health = health-1;
+}
