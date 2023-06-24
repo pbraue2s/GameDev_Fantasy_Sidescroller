@@ -1,1 +1,1 @@
-counter = 2;
+global.counter = 2;

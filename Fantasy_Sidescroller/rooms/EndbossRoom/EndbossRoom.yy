@@ -318,6 +318,8 @@
     {"name":"inst_2A07A5FE","path":"rooms/EndbossRoom/EndbossRoom.yy",},
     {"name":"inst_318D7D06","path":"rooms/EndbossRoom/EndbossRoom.yy",},
     {"name":"inst_32E3A9A8","path":"rooms/EndbossRoom/EndbossRoom.yy",},
+    {"name":"inst_7CCB8E6","path":"rooms/EndbossRoom/EndbossRoom.yy",},
+    {"name":"inst_5A7A98A3","path":"rooms/EndbossRoom/EndbossRoom.yy",},
   ],
   "isDnd": false,
   "layers": [

@@ -1,6 +1,6 @@
-if(counter == 1){
+if(global.counter == 1){
 	keyboard_key_press(vk_escape);
 }
-if(counter > 0){
-	counter --;
+if(global.counter > 0){
+	global.counter --;
 }
