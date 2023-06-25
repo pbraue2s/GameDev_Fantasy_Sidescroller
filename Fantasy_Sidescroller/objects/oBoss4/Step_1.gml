@@ -9,5 +9,7 @@ if(hp<=0)
 		instance_destroy();
 	}
 	instance_destroy();
+	instance_destroy(oBossHealthBarBorderLev3)
+	instance_destroy(oBossHealthBarLev3)
 	audio_play_sound(tot,0.5,false);
 }

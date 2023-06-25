@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sEndBossMenueBook",
-  "bbox_bottom": 674,
-  "bbox_left": 0,
-  "bbox_right": 1199,
-  "bbox_top": 0,
+  "bbox_bottom": 677,
+  "bbox_left": 2,
+  "bbox_right": 1001,
+  "bbox_top": 7,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"af1794c1-1e37-4b68-ac59-7b8e85c9680a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"402cc8c4-77a0-4573-9ca2-fc93ac7aa2ab",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 675,
+  "height": 681,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4cc3b5fa-f4e2-4023-8c7c-c646fdbe2e67","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ada127b2-22af-486a-a5a8-2b3598f79e82","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"af1794c1-1e37-4b68-ac59-7b8e85c9680a","path":"sprites/sEndBossMenueBook/sEndBossMenueBook.yy",},},},"Disabled":false,"id":"25119691-cc3e-4c91-9bb8-dac3496c2d46","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"402cc8c4-77a0-4573-9ca2-fc93ac7aa2ab","path":"sprites/sEndBossMenueBook/sEndBossMenueBook.yy",},},},"Disabled":false,"id":"dedbc2e1-1bb7-4464-9cf6-848f93ef81bc","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1200,
+  "width": 1006,
 }

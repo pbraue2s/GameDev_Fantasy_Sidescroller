@@ -111,3 +111,8 @@ if(place_meeting(x,y,oMathGem)){
 	global.blueGem = 1;
 	room_goto(Bibliothek);
 }
+if(place_meeting(x,y,ohiddenBlock)){
+	instance_destroy(ohiddenBlock);
+	instance_create_layer(1600, 0, "Player",oBossHealthBarLev3)
+	instance_create_layer(1600, 0, "Player",oBossHealthBarBorderLev3)
+}
