@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "mLev2.mp3",
   "type": 0,
-  "volume": 0.06,
+  "volume": 0.16,
 }

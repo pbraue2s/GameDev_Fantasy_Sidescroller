@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "mlev1Song.mp3",
   "type": 0,
-  "volume": 0.07,
+  "volume": 0.17,
 }

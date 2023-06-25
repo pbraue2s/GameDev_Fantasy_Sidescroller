@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "mBib.wav",
   "type": 0,
-  "volume": 0.07,
+  "volume": 0.26,
 }
