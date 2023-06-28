@@ -26,8 +26,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Level 2",
-    "path": "folders/Level 2.yy",
+    "name": "Normal",
+    "path": "folders/Level 2/Enemies/Normal.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

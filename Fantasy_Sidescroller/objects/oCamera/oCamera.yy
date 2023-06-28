@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "All",
-    "path": "folders/All.yy",
+    "name": "PreGame",
+    "path": "folders/All/PreGame.yy",
   },
   "parentObjectId": null,
   "persistent": false,

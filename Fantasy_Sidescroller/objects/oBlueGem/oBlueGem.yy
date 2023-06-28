@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Bibliothek",
-    "path": "folders/Bibliothek.yy",
+    "name": "Artifact",
+    "path": "folders/Bibliothek/InteractiveObjects/Artifact.yy",
   },
   "parentObjectId": null,
   "persistent": false,

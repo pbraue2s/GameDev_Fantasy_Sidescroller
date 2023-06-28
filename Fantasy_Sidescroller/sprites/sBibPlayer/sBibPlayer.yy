@@ -49,8 +49,8 @@
   },
   "origin": 4,
   "parent": {
-    "name": "Bibliothek",
-    "path": "folders/Bibliothek.yy",
+    "name": "Player",
+    "path": "folders/Bibliothek/Player.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

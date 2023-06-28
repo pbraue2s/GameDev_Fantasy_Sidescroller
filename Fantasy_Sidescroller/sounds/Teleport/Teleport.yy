@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 0.534263,
   "parent": {
-    "name": "Endboss",
-    "path": "folders/Endboss.yy",
+    "name": "Sound",
+    "path": "folders/Endboss/Sound.yy",
   },
   "preload": false,
   "sampleRate": 44100,

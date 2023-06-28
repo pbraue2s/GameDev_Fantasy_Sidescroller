@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Bibliothek",
-    "path": "folders/Bibliothek.yy",
+    "name": "RoomBuilding",
+    "path": "folders/Bibliothek/RoomBuilding.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

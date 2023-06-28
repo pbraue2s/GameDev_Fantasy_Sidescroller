@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Endboss",
-    "path": "folders/Endboss.yy",
+    "name": "Menue",
+    "path": "folders/Endboss/Menue.yy",
   },
   "parentObjectId": null,
   "persistent": false,

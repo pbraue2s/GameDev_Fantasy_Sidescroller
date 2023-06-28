@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 2",
-    "path": "folders/Level 2.yy",
+    "name": "invisibleBlocks",
+    "path": "folders/Level 2/RoomBuilding/invisibleBlocks.yy",
   },
   "parentObjectId": {
     "name": "oMapObject",

@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Level 1",
-    "path": "folders/Level 1.yy",
+    "name": "Menue",
+    "path": "folders/Level 1/Menue.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

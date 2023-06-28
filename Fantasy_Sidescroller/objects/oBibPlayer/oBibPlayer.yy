@@ -4,12 +4,13 @@
   "name": "oBibPlayer",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Bibliothek",
-    "path": "folders/Bibliothek.yy",
+    "name": "Player",
+    "path": "folders/Bibliothek/Player.yy",
   },
   "parentObjectId": {
     "name": "oCharacter",

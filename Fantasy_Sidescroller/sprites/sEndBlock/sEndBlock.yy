@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Level 2",
-    "path": "folders/Level 2.yy",
+    "name": "invisibleBlocks",
+    "path": "folders/Level 2/RoomBuilding/invisibleBlocks.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

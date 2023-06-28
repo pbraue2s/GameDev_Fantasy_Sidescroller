@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 2",
-    "path": "folders/Level 2.yy",
+    "name": "Player",
+    "path": "folders/Level 2/Player.yy",
   },
   "parentObjectId": {
     "name": "oLevelCharacter",

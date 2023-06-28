@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Bibliothek",
-    "path": "folders/Bibliothek.yy",
+    "name": "Artifact",
+    "path": "folders/Bibliothek/InteractiveObjects/Artifact.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

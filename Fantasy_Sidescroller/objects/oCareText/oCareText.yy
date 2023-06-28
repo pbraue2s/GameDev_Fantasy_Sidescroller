@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 2",
-    "path": "folders/Level 2.yy",
+    "name": "RoomBuilding",
+    "path": "folders/Level 2/RoomBuilding.yy",
   },
   "parentObjectId": null,
   "persistent": false,

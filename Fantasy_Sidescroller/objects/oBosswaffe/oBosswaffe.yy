@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 3",
-    "path": "folders/Level 3.yy",
+    "name": "Boss",
+    "path": "folders/Level 3/Enemies/Boss.yy",
   },
   "parentObjectId": null,
   "persistent": false,

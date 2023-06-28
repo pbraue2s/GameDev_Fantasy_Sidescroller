@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "All",
-    "path": "folders/All.yy",
+    "name": "InteractiveObjects",
+    "path": "folders/Bibliothek/InteractiveObjects.yy",
   },
   "parentObjectId": null,
   "persistent": false,

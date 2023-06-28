@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Endboss",
-    "path": "folders/Endboss.yy",
+    "name": "GameEnding",
+    "path": "folders/Endboss/GameEnding.yy",
   },
   "parentObjectId": null,
   "persistent": false,

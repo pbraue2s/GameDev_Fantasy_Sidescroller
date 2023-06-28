@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Endboss",
-    "path": "folders/Endboss.yy",
+    "name": "RoomBuilding",
+    "path": "folders/Endboss/RoomBuilding.yy",
   },
   "parentObjectId": {
     "name": "oMapObject",

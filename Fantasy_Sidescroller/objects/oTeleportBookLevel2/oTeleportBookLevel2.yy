@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Bibliothek",
-    "path": "folders/Bibliothek.yy",
+    "name": "Books",
+    "path": "folders/Bibliothek/InteractiveObjects/Books.yy",
   },
   "parentObjectId": {
     "name": "oInteract",

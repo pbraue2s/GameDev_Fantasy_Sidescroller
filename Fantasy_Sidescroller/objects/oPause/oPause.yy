@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "All",
-    "path": "folders/All.yy",
+    "name": "UserInterface",
+    "path": "folders/All/UserInterface.yy",
   },
   "parentObjectId": null,
   "persistent": false,

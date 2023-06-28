@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Level 3",
-    "path": "folders/Level 3.yy",
+    "name": "Attacks",
+    "path": "folders/Endboss/Boss/Attacks.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

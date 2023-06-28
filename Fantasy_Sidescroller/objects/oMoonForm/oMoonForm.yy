@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 2",
-    "path": "folders/Level 2.yy",
+    "name": "MoonForm",
+    "path": "folders/Level 2/Player/MoonForm.yy",
   },
   "parentObjectId": {
     "name": "oShapeshifter",

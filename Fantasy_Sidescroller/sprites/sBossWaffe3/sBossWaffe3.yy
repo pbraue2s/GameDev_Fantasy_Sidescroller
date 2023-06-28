@@ -29,8 +29,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Endboss",
-    "path": "folders/Endboss.yy",
+    "name": "Attacks",
+    "path": "folders/Endboss/Boss/Attacks.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

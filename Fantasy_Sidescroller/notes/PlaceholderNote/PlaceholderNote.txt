@@ -1,9 +1,0 @@
-This Folder is only a Placeholder.
-It porvides:
-	- Walls
-	- Basic Combat System (Fireball)
-	- Interaction of Player and MapObjects(Spike)
-	
-If you want to create your own, 
-use oCharacter as a Parent to only inherent movement
-or oLevelCharacter for movement and Health

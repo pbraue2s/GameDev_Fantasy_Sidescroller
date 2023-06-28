@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 2",
-    "path": "folders/Level 2.yy",
+    "name": "SunForm",
+    "path": "folders/Level 2/Player/SunForm.yy",
   },
   "parentObjectId": {
     "name": "oShapeshifter",

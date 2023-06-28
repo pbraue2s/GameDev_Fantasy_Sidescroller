@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Endboss",
-    "path": "folders/Endboss.yy",
+    "name": "Sound",
+    "path": "folders/Endboss/Sound.yy",
   },
   "parentObjectId": null,
   "persistent": false,
