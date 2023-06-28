@@ -8,4 +8,4 @@ Entwickler:
 - Paul Brauer
 - Mohamad Khouly
 - Özlem Karahan
-- Lucas Kowalski
+- Lucas Kowalski (Vollidiot)
